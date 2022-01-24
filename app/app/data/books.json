@@ -1,0 +1,930 @@
+[
+  {
+    "title": "Python Tricks",
+    "authors": "Dan Bader",
+    "description": "“I don’t even feel like I’ve scratched the surface of what I can do with Python”With Python Tricks: The Book you’ll discover Python’s best practices and the power of beautiful & Pythonic code with simple examples and a step-by-step narrative.You'll get one step closer to mastering Python, so you can write beautiful and idiomatic code that comes to you naturally.Learning the ins and outs of Python is difficult—and with this book you'll be able to focus on the practical skills that really matter. Discover the “hidden gold” in Python’s standard library and start writing clean and Pythonic code today.",
+    "imageUrl": "https://m.media-amazon.com/images/I/51z7XBWJb2L.jpg",
+    "rating": 4.7,
+    "keywords": ["Python", "JavaScript", "Design Patterns"],
+    "price": 3600
+  },
+  {
+    "title": "A Smarter Way to Learn Python",
+    "authors": "Mark Myers",
+    "description": "I wasn't smart enough to learn a computer language like Python—until I got smart about how to learn it.I was smart enough to earn an honors degree in philosophy from Harvard, but an aptitude test told me to avoid computer programming. I'm sure it was right. But then I designed a learning system for myself that quadrupled my aptitude for learning computer languages. It worked so well for me that I've used it to teach coding to grandmothers, cab drivers, musicians, and 50,000 other newbies.\"Mark Myers' method of getting what can be...",
+    "imageUrl": "https://m.media-amazon.com/images/I/51fNZfTUPXL.jpg",
+    "rating": 4.69,
+    "keywords": ["jQuery", "Python"],
+    "price": 3090
+  },
+  {
+    "title": "Python Machine Learning",
+    "authors": "Ryan Turner",
+    "description": "Are you a novice programmer who wants to learn Python Machine Learning? Are you worried about how to translate what you already know into Python? This book will help you overcome those problems! As machines get ever more complex and perform more and more tasks to free up our time, so it is that new ideas are developed to help us continually improve their speed and abilities.",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41VkICdTF5L.jpg",
+    "rating": 4.67,
+    "keywords": ["Scikit Learn", "Neural Network", "Machine Learning"],
+    "price": 2970
+  },
+  {
+    "title": "Python Programming",
+    "authors": "Anthony Brun",
+    "description": "★★Buy the Paperback Version of this Book and get the Kindle Book version for FREE ★★\nIf you’re looking for a way to become an expert coder and impress your friends with the programs you can make from scratch, then keep reading..\nPуthоn iѕ a high-level ѕсriрting lаnguаgе. It iѕ еаѕу tо lеаrn аnd powerful thаn оthеr lаnguаgеѕ because оf its dуnаmiс nаturе and simple ѕуntаx whiсh аllоw ѕmаll lines оf соdе\nFеаturеѕ of Python: A ԛuеѕtiоn tо аriѕе is whу machine learning uѕing руthоn iѕ preferred оvеr оthеr languages? Thiѕ iѕ bесаuѕе Pуthоn hаѕ ѕоmе fеаturеѕ оvеr оthеr рrоgrаmming lаnguаgеѕ. ",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41z1V0zP2WL.jpg",
+    "rating": 4.67,
+    "keywords": ["Python", "Object Oriented Programming"],
+    "price": 4570
+  },
+  {
+    "title": "Starting Out with C++ from Control Structures to Objects, Student Value Edition",
+    "authors": "Tony Gaddis",
+    "description": "NOTE Before purchasing, check with your instructor to ensure you select the correct ISBN. Several versions of Pearson's MyLab & Mastering products exist for each title, and registrations are not transferable. To register for and use Pearson's MyLab & Mastering products, you may also need a Course ID, which your instructor will provide. Used books, rentals, and purchases made outside of Pearson If purchasing or renting from companies other than Pearson, the access codes for Pearson's MyLab & Mastering products may not be included, may be incorrect, or may be previously redeemed. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51ufBPB1HRL.jpg",
+    "rating": 4.63,
+    "keywords": [],
+    "price": 3530
+  },
+  {
+    "title": "Python Programming",
+    "authors": "Andrew Burn",
+    "description": "For limited period only at a discounted price\nPython is an object-orientated lаnguаgе thаt сlоѕеlу rеѕеmblеѕ thе English language whiсh mаkеѕ it a grеаt language tо learn fоr bеginnеrѕ. It'ѕ аdvаnсеd features аnd package of ѕuрроrtеd librаriеѕ еvеn makes hаrd task be writаblе in bunсh оf linеѕ оf code. Almоѕt аnуоnе can lеаrn tо рrоgrаm. Thеrе аrе оnlу a few rеԛuirеmеntѕ (like hаving access to a соmрutеr), аnd you dоn't hаvе to bе a gеniuѕ. (Well... it helps if you аrе a gеniuѕ, I ѕuрроѕе, but уоu dоn't HAVE tо bе оnе) . ",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/414uUq1CJZL.jpg",
+    "rating": 4.63,
+    "keywords": ["Python"],
+    "price": 4430
+  },
+  {
+    "title": "Python Programming",
+    "authors": "Ryan Turner",
+    "description": "If you're looking to learn about Python, machine learning, and putting it to good use, then keep reading!\nHere's the thing: you've tried to make things easier for you in your job, home, or wherever just using classic programming, but there are things you can't do with it. These typically have only a linear structure—it can't learn anything new as any human would. Unfortunately, this is what you need: a program that learns on its own according to the data you feed it—no need to keep reprogramming it to update it every time there's new data! Does this sound like a familiar situation to you?",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41ElpVyQ9cL.jpg",
+    "rating": 4.63,
+    "keywords": ["Python"],
+    "price": 4030
+  },
+  {
+    "title": "C++",
+    "authors": "Ray Yao",
+    "description": "About ThisBook\nThis Book Absolutely for Beginners:\n\"C++ in 8Hours\" covers all essential C++ knowledge. You can learn complete primaryskills of C++ fast and easily.\nThe bookincludes more than 80 practical examples for beginners and includes tests &answers for the college exam, the engineer certification exam, and the jobinterview exam.",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41xHAtjiVGL.jpg",
+    "rating": 4.61,
+    "keywords": ["C++"],
+    "price": 3910
+  },
+  {
+    "title": "Deep Learning",
+    "authors": "Anthony Adams",
+    "description": "This Comprehensive Guide Will Help You Take The Headache Out Of Python Coding, Programming, and Data Analysis!Python is a very popular language and, if you’re just starting with coding, you should make sure that it is the first language to learn. But how do you start learning this language? The first step in learning any programming language is making sure that you understand how to learn it.The best way to learn Python is to understand the big picture of all that you need to learn before you dive in and start learning.Learning Python is easy, even if you’ve never learned about coding before. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51+Hrec9AxL.jpg",
+    "rating": 4.6,
+    "keywords": ["Python", "Deep Learning"],
+    "price": 4000
+  },
+  {
+    "title": "Arduino Programming",
+    "authors": "Ryan Turner",
+    "description": "If you are unfamiliar with programming and are looking for an open-source electronic interface, then Arduino could be just the place to start! With a range of Arduinos to choose from, and an increasing variety of projects online or in-person that are built on Arduino technologies, the flexibility they offer and the ease of building gadgets with Arduino has attracted many people who are both novices and seasoned professionals.",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41VFNO6C4HL.jpg",
+    "rating": 4.59,
+    "keywords": ["Arduino", "Sensors"],
+    "price": 3290
+  },
+  {
+    "title": "SQL",
+    "authors": "Ryan Turner",
+    "description": "Do you use SQL in your daily work? Have you mastered the basics and need it to do more for you? This book holds the answers!SQL, or Structured Query Language, is an essential tool for developers who are coding in any computer language and with its universal language being domain-specific it is perfect for programming and managing data.",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41qZSnkRmyL.jpg",
+    "rating": 4.59,
+    "keywords": [],
+    "price": 3790
+  },
+  {
+    "title": "C++20 Recipes",
+    "authors": "J. Burton Browning, Bruce Sutherland",
+    "description": "Discover the newest major features of C++20, including modules, concepts, spaceship operators, and smart pointers. This book is a handy code cookbook reference guide that covers the C++ core language standard as well as some of the code templates available in standard template library (STL). In C++20 Recipes: A Problem-Solution Approach, you'll find numbers, strings, dates, times, classes, exceptions, streams, flows, pointers, and more. Also, you'll see various code samples, templates for C++ algorithms, parallel processing, multithreading, and numerical processes. It also includes 3D graphics programming code. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41MZo+Qib7L.jpg",
+    "rating": 4.59,
+    "keywords": [],
+    "price": 3090
+  },
+  {
+    "title": "Python Programming in Context with Cloud Desktop Access",
+    "authors": "Bradley N. Miller, David L. Ranum, Julie Anderson",
+    "description": "This package contains the print textbook, the Cloud DeskTop, and the Navigate 2 eBook! The Cloud Desktop Access for Python Programming in Context, Third Edition provides an on-demand virtual Windows workstation for students to learn programming using the practice exercises in the textbook. With Python 3.8, Python's Integrated Development and Learning Environment (IDLE), and the textbook’s source code all pre-installed on the virtual machine Cloud Desktop, students will need be able to begin programming with Python on day one, without any need for installing additional software on their local machines. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51llFgzrPfL.jpg",
+    "rating": 4.58,
+    "keywords": ["Python"],
+    "price": 2880
+  },
+  {
+    "title": "Django",
+    "authors": "Ray Yao",
+    "description": "About This Book \nThis Book Absolutely for Beginners: \n\"Django QuickStart Guide\" covers all essential Django language knowledge. You can learn complete primary skills of Django language fast and easily. The book includes more than 60 practical examples for beginners and includes tests & answers for the college exam, the engineer certification exam, and the job interview exam. \nNote: Before you learn Django programming, you must have the knowledge of Python language. ",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41nkNFSETCL.jpg",
+    "rating": 4.58,
+    "keywords": ["Django"],
+    "price": 2880
+  },
+  {
+    "title": "Raspberry Pi",
+    "authors": "Bruce Berke",
+    "description": "Are you interested in learning about the next generation of personal computers? Do you want something that is cheap and easy to learn?\nRaspberry PI is a single-board computer which is ideal for all sorts of\napplications, but which has expanded beyond its original use ideas to\nbecome suitable for a number of other things that go beyond its original\nconcept.",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41ICEKEY5eL.jpg",
+    "rating": 4.57,
+    "keywords": ["Raspberry Pi"],
+    "price": 3170
+  },
+  {
+    "title": "Java The Complete Core Reference , 11th Edition",
+    "authors": "Mr Kotiyana",
+    "description": "Java: The Complete Reference, 11th Edition\nFully updated for Java SE 11, explains how to develop, compile, debug, and run Java programs. Best-selling Java programming author Mr kotiyana covers the entire Java language, including its syntax, keywords, and fundamental programming principles. You’ll also find information on key portions of the Java API library, such as I/O, the Collections Framework, the stream library, and the concurrency utilities. Swing, JavaBeans, and servlets are examined and numerous examples demonstrate Java in action. Of course, the very important module system is discussed in detail. ",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41iGBjmHVrL.jpg",
+    "rating": 4.57,
+    "keywords": ["Java"],
+    "price": 3770
+  },
+  {
+    "title": "Learn to Program with Scratch",
+    "authors": "Majed Marji",
+    "description": "Scratch is a fun, free, beginner-friendly programming environment where you connect blocks of code to build programs. While most famously used to introduce kids to programming, Scratch can make computer science approachable for people of any age. Rather than type countless lines of code in a cryptic programming language, why not use colorful command blocks and cartoon sprites to create powerful scripts?In Learn to Program with Scratch, author Majed Marji uses Scratch to explain the concepts essential to solving real-world programming problems. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51CMl0YJy2L.jpg",
+    "rating": 4.57,
+    "keywords": [],
+    "price": 3970
+  },
+  {
+    "title": "Excel",
+    "authors": "Mr Daniel Jones",
+    "description": "Have you ever opened a Microsoft Excel spreadsheet and wondered how to do something? Well, wonder no more! With this book, you will learn tips and tricks that are going to make using Excel simpler. You will get your projects done in a timely manner and you will be able to impress your boss with how professional your project looks. By the end of this book, you will be an expert on things that can be done in Excel and you will be able to teach others these tricks to make their Excel experience more pleasant. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51vx1A6+8jL.jpg",
+    "rating": 4.56,
+    "keywords": ["Microsoft Excel"],
+    "price": 4360
+  },
+  {
+    "title": "The Quick Python Book",
+    "authors": "Naomi Ceder",
+    "description": "Summary This third revision of Manning's popular The Quick Python Book offers a clear, crisp updated introduction to the elegant Python programming language and its famously easy-to-read syntax. Written for programmers new to Python, this latest edition includes new exercises throughout. It covers features common to other languages concisely, while introducing Python's comprehensive standard functions library and unique features in detail. Foreword by Nicholas Tollervey, Python Software Foundation. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41yCI3StseL.jpg",
+    "rating": 4.56,
+    "keywords": ["Python"],
+    "price": 3860
+  },
+  {
+    "title": "Roblox",
+    "authors": "Legendary Game Guides",
+    "description": "ROBLOX: THE LEGENDARY GUIDE TO BUILDING AND DESIGNING EPIC GAMES!\nRead on your PC, Mac, smart phone, tablet or Kindle device.\nRoblox is a worldwide gaming phenomenon with the under 18 crowd, and it is easy to see why. Roblox is a platform that lets users play virtually any type game they can imagine, for free, thanks to free-to-play monetization. What’s more, as a vast majority of these games are created by those in the Roblox peer group, it is also helping to train, and fund, the next generation of game designers.\nInside you will find:",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/513LRqMQcXL.jpg",
+    "rating": 4.56,
+    "keywords": [],
+    "price": 3860
+  },
+  {
+    "title": "Java for Beginners 2018",
+    "authors": "Mr Kotiyana",
+    "description": "Java for Beginners\n***Available at $25 for a LIMITED TIME ONLY (Usual Price: $35)***\nWe highly recommend you to buy our paperback version for the better reading experience of this java book.\nThis New Book by Best-Selling Author Mr Kotiyana gets you started programming in Java right away & begins with the java basics, such as how to create, compile, and run a Java program. He then moves on to the keywords, syntax, and constructs that form the core of the Java language.\nWhat this book offers...",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51mEa-0nphL.jpg",
+    "rating": 4.56,
+    "keywords": ["Java"],
+    "price": 4460
+  },
+  {
+    "title": "Python Pocket Reference",
+    "authors": "Mark Lutz",
+    "description": "Updated for both Python 3.4 and 2.7, this convenient pocket guide is the perfect on-the-job quick reference. You’ll find concise, need-to-know information on Python types and statements, special method names, built-in functions and exceptions, commonly used standard library modules, and other prominent Python tools. The handy index lets you pinpoint exactly what you need.Written by Mark Lutz—widely recognized as the world’s leading Python trainer—Python Pocket Reference is an ideal companion to O’Reilly’s classic Python tutorials, Learning Python and Programming Python, also written by Mark.",
+    "imageUrl": "https://m.media-amazon.com/images/I/51HBNNoTPpL.jpg",
+    "rating": 4.56,
+    "keywords": ["Python", "Object Oriented Programming"],
+    "price": 2860
+  },
+  {
+    "title": "Starting Out with Python, Student Value Edition",
+    "authors": "Tony Gaddis",
+    "description": "For courses in Python programming. A clear and student-friendly introduction to the fundamentals of Python In Starting Out with Python(R), 4th Edition, Tony Gaddis' accessible coverage introduces students to the basics of programming in a high level language. Python, an easy-to-learn and increasingly popular object-oriented language, allows readers to become comfortable with the fundamentals of programming without the troublesome syntax that can be challenging for novices. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41J8aep18HL.jpg",
+    "rating": 4.56,
+    "keywords": ["Python"],
+    "price": 2660
+  },
+  {
+    "title": "Coding",
+    "authors": "Larry Lutz, Richard Ray",
+    "description": "CODING\nPYTHON & RASPBERRY PI\nBuy the Paperback version of this book, and get the Kindle eBook version included for FREE! \nDo You Want to Become An Expert Of PYTHON AND RASPBERRY PI 3 ?? Get this Book and Follow My Step by Step Explanations! Click Add To Cart Now!",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41AHbCyNa9L.jpg",
+    "rating": 4.55,
+    "keywords": ["Python", "Electronics", "Raspberry Pi"],
+    "price": 3650
+  },
+  {
+    "title": "Java",
+    "authors": "Mr Kotiyana",
+    "description": "Java: Learn Java Programming\n***Available at $20for a LIMITED TIME ONLY (Usual Price: $32)***\nWe highly recommend you to buy our paperback version for the better reading experience of this java book.\nThis New Book by Best-Selling Author Mr Kotiyana gets you started programming in Java right away & begins with the java basics, such as how to create, compile, and run a Java program. He then moves on to the keywords, syntax, and constructs that form the core of the Java language.\nHave you always wanted to learn computer programming but are afraid it'll be too difficult for you? ",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51%2BgwRCd9PL.jpg",
+    "rating": 4.55,
+    "keywords": ["Java"],
+    "price": 4150
+  },
+  {
+    "title": "Java How to Program, Early Objects Plus MyLab Programming with Pearson eText -- Access Card Package",
+    "authors": "Paul J. Deitel, Harvey Deitel",
+    "description": "NOTE: Before purchasing, check with your instructor to ensure you select the correct ISBN. Several versions of MyLab™ Programmingexist for each title, and registrations are not transferable. To register for and use MyLab Programming, you may also need a Course ID, which your instructor will provide\nUsed books, rentals, and purchases made outside of Pearson\nIf purchasing or renting from companies other than Pearson, the access codes for MyLab Programming may not be included, may be incorrect, or may be previously redeemed. Check with the seller before completing your purchase\nFor courses in Java programming",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51SQ%2BWtykUL.jpg",
+    "rating": 4.55,
+    "keywords": ["Object Oriented Programming"],
+    "price": 3250
+  },
+  {
+    "title": "Learning C# by Programming Games",
+    "authors": "Wouter van Toll, Arjan Egges, Jeroen D. Fokker",
+    "description": "Developing computer games is a perfect way to learn how to program in modern programming languages. This book teaches how to program in C# through the creation of computer games – and without requiring any previous programming experience.Contrary to most programming books, van Toll, Egges, and Fokker do not organize the presentation according to programming language constructs, but instead use the structure and elements of computer games as a framework. For instance, there are chapters on dealing with player input, game objects, game worlds, game states, levels, animation, physics, and intelligence. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41fNHJvJnlL.jpg",
+    "rating": 4.55,
+    "keywords": ["Game Development"],
+    "price": 3750
+  },
+  {
+    "title": "Python Programming",
+    "authors": "Adrien Aida",
+    "description": "Python Programming: Step by step guide from beginners to expert\nPrоgrаmmіngіѕ thе mеthоd of tаkіngаnаlgоrіthm аnd еnсоdіngіtіntо a notation, a programming lаnguаgе, ѕо that it wіll be еxесutеd by a соmрutеr. Or іnjuѕt simple words \"Programming іѕ a language of telling a computer what to dоthrоugh a set оf instructions.\"\nThеrе are dіffеrеnttуреѕ оf programming lаnguаgеѕ uѕеd, fоr еxаmрlе:\n• Python",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41HVwAyjdCL.jpg",
+    "rating": 4.55,
+    "keywords": [],
+    "price": 3350
+  },
+  {
+    "title": "A Tutorial On Pointers and Arrays In C",
+    "authors": "Ted Jensen",
+    "description": "This document is intended to introduce pointers to beginning programmers in the C programming language. Over several years of reading and contributing to various conferences on C including those on the FidoNet and UseNet, I have noted a large number of newcomers to C appear to have a difficult time in grasping the fundamentals of pointers. I therefore undertook the task of trying to explain them in plain language with lots of examples.",
+    "imageUrl": "https://m.media-amazon.com/images/I/4111DVotAKL.jpg",
+    "rating": 4.54,
+    "keywords": [],
+    "price": 3640
+  },
+  {
+    "title": "Arduino",
+    "authors": "Daniel Bell",
+    "description": "Arduino is the largest open-source hardware platform in the world. Arduino provides unlimited possibilities that can be achieved using microcontroller-based products. This short and easy read book is a perfect way to dive into electronics and programming as you get all the basics that are required to start working with Arduino. Download your copy NOW!!Book Objectives This book is about Arduino programming. The following are the objectives of the author: To help you know the various parts of the Arduino board. To help you understand the uses of the various parts of the Arduino board. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41tK3EvYhDL.jpg",
+    "rating": 4.54,
+    "keywords": [],
+    "price": 3440
+  },
+  {
+    "title": "Excel Macros",
+    "authors": "Vijay Kumar",
+    "description": "Excel Macros VBA Programming for Beginners Excel is the number one Spreadsheet Application in the World. Almost all the Excel users know how to write formulas, formatting or creating a pivot table. But they don't know how to automate these tasks. With the help of Excel Macros, you can automate all the repetitive task while you relax in your chair. This book is for those who have no programming knowledge and want to learn writing macros. If you want Excel work for you rather than you work for Excel, then this book is for you. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51EN-VpezLL.jpg",
+    "rating": 4.54,
+    "keywords": [],
+    "price": 3340
+  },
+  {
+    "title": "Java",
+    "authors": "IT Starter Series, Joseph Connor",
+    "description": "Java: The Definite Beginner's Guide to Get Started with Java Programming)Java is one of the most popular of all the programming languages with a wide range of applications and environments making knowledge of the program an essential tool. This guide provides the basic starting point to learn this important language. By starting here, you will be well on your way to launching a journey towards Java programming.Learn everything you need to understand this rule-based programming language in Java: The Definite Beginner's Guide to Get Started with Java Programming, by Joseph Connor. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51nrTPhZ26L.jpg",
+    "rating": 4.54,
+    "keywords": ["Java"],
+    "price": 3740
+  },
+  {
+    "title": "Linux",
+    "authors": "Mr Daniel Jones",
+    "description": "This book contains proven steps and strategies on how to become a proficient Linux programmer. Through the course of this book, you’re going to learn strategies to think like a programmer. You’ll learn how to program in Python and Java, as well as how to write scripts for the Linux command line. By the end, you’re going to have a masterful grip on how to write efficient and strong programs. I’ve been programming for a while, and this book is based on the method that I’ve found to be most effective in teaching people how to program; a programmer isn’t worth anything if they don’t understand the underlying logic. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51CPj1N8Y2L.jpg",
+    "rating": 4.54,
+    "keywords": ["Linux", "Python"],
+    "price": 4340
+  },
+  {
+    "title": "Beginning Visual Basic",
+    "authors": "Philip Conrod, Lou Tylee",
+    "description": "BEGINNING VISUAL BASIC is a semester long self-study step-by-step programming tutorial consisting of 10 Chapters explaining (in simple, easy-to-follow terms) how to build a Visual Basic Windows application. Students learn about project design, the Visual Basic toolbox, and many elements of the Visual Basic language. Numerous examples are used to demonstrate every step in the building process. The tutorial also includes several detailed computer projects for students to build and try.",
+    "imageUrl": "https://m.media-amazon.com/images/I/51GLMIYLmQL.jpg",
+    "rating": 4.54,
+    "keywords": ["Visual Basic"],
+    "price": 3340
+  },
+  {
+    "title": "Introduction to Algorithms and Data Structures in Swift 4",
+    "authors": "Karoly Nyisztor, Monika Nyisztor",
+    "description": "Take a closer look at algorithms and data structures and learn how to work with them to more efficiently approach software development with Swift. \"Introduction to Algorithms and Data Structures in Swift 4\" is a straightforward guide to solving coding problems more efficiently. In this comprehensive book, author Károly Nyisztor helps to familiarize yourself with algorithmic thinking and code optimization techniques. He explains each concept using easy-to-understand examples. He focuses on the practical application, using hands-on Swift code examples you can use for reference and practice. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41TEerjUlaL.jpg",
+    "rating": 4.54,
+    "keywords": ["Swift", "Data Structures"],
+    "price": 3040
+  },
+  {
+    "title": "Arm Assembly for Embedded Applications, 4th Edition",
+    "authors": "Daniel Lewis",
+    "description": "ARM Assembly for Embedded Applications is a text for a sophomore-level course in computer science, computer engineering, or electrical engineering that teaches students how to write functions in ARM assembly called by a C program. The C/Assembly interface (i.e., function call, parameter passing, return values, register conventions) is presented early so that students can write simple functions in assembly as soon as possible. The text then covers the details of arithmetic, bit manipulation, making decisions, loops, integer arithmetic, real arithmetic floating-point and fixed-point representations, inline coding and I/O programming.",
+    "imageUrl": "https://m.media-amazon.com/images/I/51Cdo0iFsJL.jpg",
+    "rating": 4.54,
+    "keywords": [],
+    "price": 4040
+  },
+  {
+    "title": "FORTRAN 77",
+    "authors": "Harry Katzan",
+    "description": "Programming in FORTRAN 77",
+    "imageUrl": "https://m.media-amazon.com/images/I/416j9bnvArL.jpg",
+    "rating": 4.54,
+    "keywords": ["Fortran"],
+    "price": 2740
+  },
+  {
+    "title": "Python Programming",
+    "authors": "Maurice J Thompson",
+    "description": "Eager to learn Python Programming Quickly? This book has actionable information that will help you to understand python at an advanced level.Welcome to the final issue of our Python programming book series. This book is the advanced edition that you have been building up to as you went through the exercises in the last two books. This third issue of the book is even more comprehensive than the previous editions but equally educative and illuminating.   ",
+    "imageUrl": "https://m.media-amazon.com/images/I/4191DNJ9ByL.jpg",
+    "rating": 4.52,
+    "keywords": ["Python"],
+    "price": 3520
+  },
+  {
+    "title": "C++ How to Program Plus MyLab Programming with Pearson eText -- Access Card Package",
+    "authors": "Paul J. Deitel, Harvey Deitel",
+    "description": "NOTE: Before purchasing, check with your instructor to ensure you select the correct ISBN. Several versions of Pearson's MyLab & Mastering products exist for each title, and registrations are not transferable. To register for and use Pearson's MyLab & Mastering products, you may also need a Course ID, which your instructor will provide. Used books, rentals, and purchases made outside of Pearson If purchasing or renting from companies other than Pearson, the access codes for Pearson's MyLab & Mastering products may not be included, may be incorrect, or may be previously redeemed. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/5172fLTlvpL.jpg",
+    "rating": 4.52,
+    "keywords": [],
+    "price": 4020
+  },
+  {
+    "title": "The Tao of Programming",
+    "authors": "Geoffrey James",
+    "description": "Book by James, Geoffrey",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/510Q4YKK9ML.jpg",
+    "rating": 4.5,
+    "keywords": ["Software Development", "Software Engineering"],
+    "price": 3900
+  },
+  {
+    "title": "Excel",
+    "authors": "Daniel Jones",
+    "description": "Excel is a tool whose prevalence is only matched by how little most people actually know about it. If you use Excel on a regular basis, even it is only for seemingly basic tasks, there are likely dozens of ways you can streamline the process, saving yourself countless hours in the process. If you are interested in taking full control of Excel and unlocking its full potential, then Excel: 4 Books in 1- Bible of 4 Manuscripts in 1-Beginner's Guide+ Tips and Tricks+ Simple and Effective strategies+ Best Practices to learn Excel programming Efficiently, is the book you have been waiting for. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51HpFT5SFrL.jpg",
+    "rating": 4.49,
+    "keywords": ["Visual Basic", "Microsoft Excel", "Microsoft Office"],
+    "price": 3390
+  },
+  {
+    "title": "Sql",
+    "authors": "Henry Hayes",
+    "description": "SQL\nThe Ultimate Beginners Guide To SQL Server - Start With And Master SQL Programming Fast!\nThe relational database management is comprised of few important languages that needs to be understand by the users of DBMS (Database Management Systems). One of the important languages that is directly linked to RDBMS is none other than SQL. This e-book is about the detailed overview and use of SQL for the beginners. People spend hundreds of dollars to learn this language and don’t able to perform its programming properly. This guide would help you to learn the basics and the complex procedures of doing SQL programming. ",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41ukjIRg1OL.jpg",
+    "rating": 4.48,
+    "keywords": ["SQL", "SQL Server"],
+    "price": 4280
+  },
+  {
+    "title": "SCALA",
+    "authors": "Ray Yao",
+    "description": "About This Book \nThis Book Absolutely for Beginners: \n\"Scala in 8 Hours\" covers all essential Scala language knowledge. You can learn complete primary skills of Scala programming fast and easily. The book includes more than 80 practical examples for beginners and includes tests & answers for the college exam, the engineer certification exam, and the job interview exam. \nSource Code for Download: \nThis book provides source code for download; you can download the source code for better study, or copy the source code to your favorite editor to test the programs. ",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41wOZ1n2%2BXL.jpg",
+    "rating": 4.47,
+    "keywords": ["Scala"],
+    "price": 2870
+  },
+  {
+    "title": "Computer Programming",
+    "authors": "Damon Parker",
+    "description": "Programming language has rendered itself as the language of choice for coding beginners and advanced software programmers alike. This book is written to help you master the basic concepts of Python, SQL and Arduino coding and how you can utilize your coding skills to analyze a large volume of data and uncover valuable information that can otherwise be easily lost in the volume. Python was designed primarily to emphasize readability of the programming code, and its syntax enables programmers to convey ideas using fewer lines of code. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51GQTKOqE-L.jpg",
+    "rating": 4.45,
+    "keywords": ["MySQL", "Python", "Databases"],
+    "price": 3750
+  },
+  {
+    "title": "Building a Mobile App",
+    "authors": "Sarah Guthals",
+    "description": "Coding is cool, and these fun projects help you get started today! Building a Mobile App offers basic lessons in Android development, designed specifically for kids! Three fun projects walk you through basic coding skills using MIT's App Inventor―a free, online programming tool that uses a simple block style language that makes coding easy to learn. No long chapters to read, and no homework―just dive right in! You'll begin with a basic project that shows you how to make an app that works; next, you'll put those skills to work on a photo editing app that takes your skills to the next level. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51fdvrFIhpL.jpg",
+    "rating": 4.44,
+    "keywords": ["Android", "Mobile Development", "Android Development"],
+    "price": 3340
+  },
+  {
+    "title": "Beginning Python",
+    "authors": "Magnus Lie Hetland",
+    "description": "Gain a fundamental understanding of Python’s syntax and features with this up–to–date introduction and practical reference. Covering a wide array of Python–related programming topics, including addressing language internals, database integration, network programming, and web services, you’ll be guided by sound development principles. Ten accompanying projects will ensure you can get your hands dirty in no time.",
+    "imageUrl": "https://m.media-amazon.com/images/I/51QPSKiHgtL.jpg",
+    "rating": 4.42,
+    "keywords": ["Python", "Database Internals"],
+    "price": 3820
+  },
+  {
+    "title": "Unix Programming Environment",
+    "authors": "Brian W. Kernighan, Rob Pike",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/41W7vWO2zJL.jpg",
+    "rating": 4.38,
+    "keywords": ["Unix", "File Systems"],
+    "price": 3280
+  },
+  {
+    "title": "PYTHON PROGRAMMING",
+    "authors": "Clive Campbell",
+    "description": "THIS BOOK INCLUDES:- Python for beginners- PYTHON PROGRAMMING – The Ultimate Guide from beginners to Experts- PYTHON PROGRAMMING – The Ultimate Expert Guide.You Are 1-Click Away From Learning The Ins And Outs Of Python Programming Language From The Basics To Its Application In Advanced Computing Concepts Like Machine Learning, Computer Science, Artificial Intelligence And More!",
+    "imageUrl": "https://m.media-amazon.com/images/I/51peAwmNI-L.jpg",
+    "rating": 4.37,
+    "keywords": ["Python", "Deep Learning"],
+    "price": 4170
+  },
+  {
+    "title": "Refactoring",
+    "authors": "Martin Fowler",
+    "description": "\"Whenever you read [Refactoring], it’s time to read it again. And if you haven’t read it yet, please do before writing another line of code.\" –David Heinemeier Hansson, Creator of Ruby on Rails, Founder & CTO at Basecamp Fully Revised and Updated—Includes New Refactoring's and Code Examples “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” –M. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41odjJlPgHL._SL500_.jpg",
+    "rating": 4.36,
+    "keywords": ["Refactoring", "Software Design"],
+    "price": 4260
+  },
+  {
+    "title": "Structure and Interpretation of Computer Programs",
+    "authors": "Harold Abelson, Gerald Jay Sussman, Martin Henz, Tobias Wrigstad",
+    "description": "A new version of the classic and widely used text adapted for the JavaScript programming language.Since the publication of its first edition in 1984 and its second edition in 1996, Structure and Interpretation of Computer Programs (SICP) has influenced computer science curricula around the world. Widely adopted as a textbook, the book has its origins in a popular entry-level computer science course taught by Harold Abelson and Gerald Jay Sussman at MIT. SICP introduces the reader to central ideas of computation by establishing a series of mental models for computation. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/31XLNDB0v-S._SL500_.jpg",
+    "rating": 4.35,
+    "keywords": [
+      "Software Development",
+      "Computer Science",
+      "Software Engineering"
+    ],
+    "price": 3350
+  },
+  {
+    "title": "Coding by Doing",
+    "authors": "Coding Languages Academy",
+    "description": "Coding by DoingFor Absolute Beginners – 2 Books in One – Learn SQL and Python ProgrammingLearn Programming FastIn this book bundle, you’ll learn the basics, techniques and best practices for SQL and Python programmingSQL Programming - A Beginners GuideFor beginners, learning SQL is like learning how to speak a foreign language. You have to learn the alphabets first before you can successfully use it. Knowing the definition and purposes of SQL is crucial, before you, as a beginner can make any significant progress.",
+    "imageUrl": "https://m.media-amazon.com/images/I/417B2vELRQL.jpg",
+    "rating": 4.32,
+    "keywords": ["SQL"],
+    "price": 3820
+  },
+  {
+    "title": "Eloquent JavaScript, 3rd Edition",
+    "authors": "Marijn Haverbeke",
+    "description": "Completely revised and updated, this best-selling introduction to programming in JavaScript focuses on writing real applications.JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications.This much anticipated and thoroughly revised third edition of Eloquent JavaScript dives deep into the JavaScript language to show you how to write beautiful, effective code. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51-5ZXYtcML._SL500_.jpg",
+    "rating": 4.31,
+    "keywords": ["JavaScript", "Functional Programming"],
+    "price": 3310
+  },
+  {
+    "title": "Python Crash Course, 2nd Edition",
+    "authors": "Eric Matthes",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51OOCVBfCQL._SL500_.jpg",
+    "rating": 4.3,
+    "keywords": ["Numpy", "Python", "Clean Code"],
+    "price": 3800
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "authors": "David Thomas, Andrew Hunt",
+    "description": "“One of the most significant books in my life.” —Obie Fernandez, Author, The Rails Way “Twenty years ago, the first edition of The Pragmatic Programmer completely changed the trajectory of my career. This new edition could do the same for yours.” —Mike Cohn, Author of Succeeding with Agile, Agile Estimating and Planning, and User Stories Applied “. filled with practical advice, both technical and professional, that will serve you and your projects well for years to come.” —Andrea Goulet, CEO, Corgibytes, Founder, LegacyCode.Rocks “. . . lightning does strike twice, and this book is proof.",
+    "imageUrl": "https://m.media-amazon.com/images/I/518FqJvR9aL._SL500_.jpg",
+    "rating": 4.3,
+    "keywords": ["Software"],
+    "price": 2400
+  },
+  {
+    "title": "Soft Skills",
+    "authors": "John Sonmez",
+    "description": "Mediocre To Great. Become The Best Software Developer You Can Be — Level Up Your Income, Relationships, Health and Mindset By Mastering Soft Skills. Success isn’t a clear road for software developers. There’s too much information and it can feel overwhelming. Many developers get stuck and have no idea what to do next. Soft Skills aims to solve this. To give you a clear path with actionable steps for your career (and life). So you can get back to what you enjoy doing… solving unique puzzles and fun problems. Most books talk about how to improve your career. Or how to pass interview questions. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41xAvN6ObWL._SL500_.jpg",
+    "rating": 4.3,
+    "keywords": ["Software", "Software Development"],
+    "price": 3600
+  },
+  {
+    "title": "Automate the Boring Stuff with Python, 2nd Edition",
+    "authors": "Al Sweigart",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51B161E04DL._SL500_.jpg",
+    "rating": 4.29,
+    "keywords": ["Python", "Web Scraping"],
+    "price": 3890
+  },
+  {
+    "title": "Clean Architecture",
+    "authors": "Robert Martin",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/411csr6Nn0L._SL500_.jpg",
+    "rating": 4.29,
+    "keywords": [
+      "Software",
+      "Clean Code",
+      "Architecture",
+      "Software Design",
+      "Software Architecture"
+    ],
+    "price": 3990
+  },
+  {
+    "title": "A Common-Sense Guide to Data Structures and Algorithms, Second Edition",
+    "authors": "Jay Wengrow",
+    "description": "Algorithms and data structures are much more than abstract concepts. Mastering them enables you to write code that runs faster and more efficiently, which is particularly important for todayâ€™s web and mobile apps. Take a practical approach to data structures and algorithms, with techniques and real-world scenarios that you can use in your daily production code, with examples in JavaScript, Python, and Ruby. This new and revised second edition features new chapters on recursion, dynamic programming, and using Big O in your daily work. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41p41-myEFL._SL500_.jpg",
+    "rating": 4.29,
+    "keywords": [
+      "Algorithms",
+      "Imaging Algorithms",
+      "Python",
+      "Big Data",
+      "Data Science",
+      " (show all)"
+    ],
+    "price": 2490
+  },
+  {
+    "title": "A Tour of C++",
+    "authors": "Bjarne Stroustrup",
+    "description": "In A Tour of C++, Second Edition, Bjarne Stroustrup, the creator of C++, describes what constitutes modern C++. This concise, self-contained guide covers most major language features and the major standard-library components―not, of course, in great depth, but to a level that gives programmers a meaningful overview of the language, some key examples, and practical help in getting started.   Stroustrup presents the C++ features in the context of the programming styles they support, such as object-oriented and generic programming. His tour is remarkably comprehensive. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51YqN2aew6L.jpg",
+    "rating": 4.29,
+    "keywords": ["C++"],
+    "price": 3190
+  },
+  {
+    "title": "Effective Java",
+    "authors": "Joshua Bloch",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51wl8cINKYL._SL500_.jpg",
+    "rating": 4.28,
+    "keywords": ["API", "Java"],
+    "price": 3280
+  },
+  {
+    "title": "Python For Data Analysis",
+    "authors": "Samuel Burns",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51+z9xpQcEL._SL500_.jpg",
+    "rating": 4.27,
+    "keywords": ["Numpy", "Data Science"],
+    "price": 3270
+  },
+  {
+    "title": "Effective Python",
+    "authors": "Brett Slatkin",
+    "description": "Updated and Expanded for Python 3 It’s easy to start developing programs with Python, which is why the language is so popular. However, Python’s unique strengths, charms, and expressiveness can be hard to grasp, and there are hidden pitfalls that can easily trip you up. This second edition of Effective Python will help you master a truly “Pythonic” approach to programming, harnessing Python’s full power to write exceptionally robust and well-performing code. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41iB6CmmeLL._SL500_.jpg",
+    "rating": 4.27,
+    "keywords": ["Python"],
+    "price": 3770
+  },
+  {
+    "title": "Python Programming",
+    "authors": "Howard Hayes",
+    "description": "Do you want to learn Python programming? Or you just want to improve your skills? In either way this book is right for you!\nIf you're looking for a way to protect your future you need to have one of the most remunerative and requested skills out there, you need to become an expert coder\nThe world is changing at an astonishing rate. Most of the actual jobs are being quickly replaced by Artificial Intelligence. Learning how to code is one of the best ways to prepare yourself for the future\nIn this book, Hayes, using many practical examples, will carefully explain all what you need to know about Python, such as:",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/414GexLPyTL.jpg",
+    "rating": 4.27,
+    "keywords": [],
+    "price": 2570
+  },
+  {
+    "title": "You Don't Know JS Yet",
+    "authors": "Kyle Simpson, Simon St.Laurent, Brian Holt",
+    "description": "It seems like there's never been as much widespread desire before for a better way to deeply learn the fundamentals of JavaScript. But with a million blogs, books, and videos out there, just where do you START? Look no further!The worldwide best selling \"You Don't Know JS\" book series is back for a 2nd edition: \"You Don't Know JS Yet\". All 6 books are brand new, rewritten to cover all sides of JS for 2020 and beyond.\"Get Started\" prepares you for the journey ahead, first surveying the language then detailing how the rest of the You Don't Know JS Yet book series guides you to knowing JS more deeply.",
+    "imageUrl": "https://m.media-amazon.com/images/I/410f-bUBR3L._SL500_.jpg",
+    "rating": 4.27,
+    "keywords": ["JavaScript", "API Development"],
+    "price": 3770
+  },
+  {
+    "title": "Arduino",
+    "authors": "Zach Webber",
+    "description": "★ ★ Buy the Paperback version of this book, and get the Kindle eBOOK version for FREE★ ★ Arduino: The Ultimate Beginner's Guide to Learn and Understand Arduino Programming Effectively is the resource guide you need to understand Arduino sketches at a fundamental level. After reading this book, you will be able to read and write your own sketches. You will acquire the knowledge and skills to write clean, effective code that is easy to use and easy to understand. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/515NFhUzo1L.jpg",
+    "rating": 4.27,
+    "keywords": ["Arduino"],
+    "price": 3370
+  },
+  {
+    "title": "The Rust Programming Language",
+    "authors": "Steve Klabnik, Carol Nichols",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51FeXpSFXdL._SL500_.jpg",
+    "rating": 4.26,
+    "keywords": ["Rust", "Software Development"],
+    "price": 2860
+  },
+  {
+    "title": "Algorithms Illuminated",
+    "authors": "Tim Roughgarden",
+    "description": "Accessible, no-nonsense, and programming language-agnostic introduction to algorithms. Includes solutions to all quizzes and selected problems, and a series of YouTube videos by the author accompanies the book. Part 1 covers asymptotic analysis and big-O notation, divide-and-conquer algorithms and the master method, randomized algorithms, and several famous algorithms for sorting and selection.",
+    "imageUrl": "https://m.media-amazon.com/images/I/51gIuC4rhyL._SL500_.jpg",
+    "rating": 4.26,
+    "keywords": ["Algorithms", "Computer Science", "Algorithm Analysis"],
+    "price": 2360
+  },
+  {
+    "title": "Software Engineering at Google",
+    "authors": "Titus Winters, Tom Manshreck, Hyrum Wright",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/410MEGnUOCL._SL500_.jpg",
+    "rating": 4.25,
+    "keywords": ["Google", "Software", "Engineering", "Software Development"],
+    "price": 3450
+  },
+  {
+    "title": "Mastering Python Networking",
+    "authors": "Eric Chou, Michael Kennedy, Mandy Whaley",
+    "description": "New edition of the bestselling guide to mastering Python Networking, updated to Python 3 and including the latest on network data analysis, Cloud Networking, Ansible 2.8, and new libraries Key Features Explore the power of Python libraries to tackle difficult network problems efficiently and effectively, including pyATS, Nornir, and Ansible 2.",
+    "imageUrl": "https://m.media-amazon.com/images/I/51W5n1ReVtL._SL500_.jpg",
+    "rating": 4.25,
+    "keywords": [
+      "Devops",
+      "Python",
+      "Network Security",
+      "Network Programming",
+      "Software Automation",
+      " (show all)"
+    ],
+    "price": 3550
+  },
+  {
+    "title": "Learn JavaScript Quickly",
+    "authors": "Code Quickly",
+    "description": "Become a Master Coder and Cash In the Big Bucks: JavaScript Programming Made Easy. Do you want to develop a skill that will ensure you never go jobless again? Have you always wanted to learn how to program but could never afford those ridiculously expensive courses? Developers and programmers are amongst the highest paid professions in the world, and according to the US Bureau of Labor Statistics, the number of jobs for software and app developers will increase by a shocking 24% in the next few years. In 2019, the tech industry posted 4.",
+    "imageUrl": "https://m.media-amazon.com/images/I/51F8Q2HHw-L._SL500_.jpg",
+    "rating": 4.25,
+    "keywords": ["JavaScript"],
+    "price": 2950
+  },
+  {
+    "title": "Programming for Computations",
+    "authors": "Svein Linge, Hans Petter Langtangen",
+    "description": "This book is published open access under a CC BY 4.0 license. This book presents computer programming as a key method for solving mathematical problems. This second edition of the well-received book has been extensively revised: All code is now written in Python version 3.6 (no longer version 2.7). In addition, the two first chapters of the previous edition have been extended and split up into five new chapters, thus expanding the introduction to programming from 50 to 150 pages. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/4129RvRG9VL._SL500_.jpg",
+    "rating": 4.25,
+    "keywords": ["Matlab", "Computer Simulation", "Numerical Algorithms"],
+    "price": 3650
+  },
+  {
+    "title": "Excel VBA",
+    "authors": "David A. Williams",
+    "description": "Have you wanted to automate different processes and functions that you perform on Excel? If you want to take Excel to a new level, you should understand VBA and automate the many processes that you can perform in Excel. If you want to do this, you have come to the right place.This book introduces numerous Excel options starting right from the different tools and operations that you can perform using Visual Basic. Over the course of this book, you will gather information about all the necessary concepts and elements that will help you program with Excel. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41FYLpuyrRL.jpg",
+    "rating": 4.25,
+    "keywords": ["VBA", "Visual Basic"],
+    "price": 4050
+  },
+  {
+    "title": "Go Programming Language",
+    "authors": "Alan A. A. Donovan And Brian W. Kernighan",
+    "description": "As New nternational Paper-back Edition same as per description, **Economy edition, May have been printed in Asia with cover stating Not for sale in US. Legal to use despite any disclaimer on cover. Save Money. Contact us for any queries. Best Customer Support! All Orders shipped with Tracking Number.",
+    "imageUrl": "https://m.media-amazon.com/images/I/510Qib-dSCL._SL500_.jpg",
+    "rating": 4.25,
+    "keywords": [],
+    "price": 3850
+  },
+  {
+    "title": "C# in Depth",
+    "authors": "Jon Skeet",
+    "description": "Effective techniques and experienced insights to maximize your C# 6 and 7 programming skills Key Features Written by C# legend and top StackOverflow contributor Jon Skeet Unlock the new features of C# 6 and 7 Insights on the future of the C# language Master asynchronous functions, interpolated strings, tuples, and more Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. ”An excellent overview of C# with helpful and realistic examples that make learning the newest features of C# easy.” —Meredith Godar  About The Book C# is the foundation of .NET development. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41iLDz74c-L._SL500_.jpg",
+    "rating": 4.25,
+    "keywords": ["C#", "LINQ"],
+    "price": 3550
+  },
+  {
+    "title": "Programming Games with Visual Basic",
+    "authors": "Philip Conrod, Lou Tylee",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51SUEqoRokL._SL500_.jpg",
+    "rating": 4.24,
+    "keywords": ["Visual Basic"],
+    "price": 3740
+  },
+  {
+    "title": "C#",
+    "authors": "Brian Jenkins",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51B+HDLQL-L._SL500_.jpg",
+    "rating": 4.24,
+    "keywords": [],
+    "price": 2740
+  },
+  {
+    "title": "Learn Fortran Programming",
+    "authors": "S P, Infinity Publishing Solutions",
+    "description": "FORTRAN was designed for scientists and engineers, and has dominated this field. For the past 30 years FORTRAN has been used for such projects as the design of bridges and aeroplane structures, it is used for factory automation control, for storm drainage design, analysis of scientific data and so on.FORTRAN, derived from Formula Translation is a general-purpose, compiled imperative programming language that is especially suited to numeric computation and scientific computing.",
+    "imageUrl": "https://m.media-amazon.com/images/I/51zA-DLLrqL.jpg",
+    "rating": 4.24,
+    "keywords": [],
+    "price": 4040
+  },
+  {
+    "title": "Arduino for Beginners",
+    "authors": "Mark Hopper",
+    "description": "Everything you need to learn Arduino programming, even if you've never touched a board before.Do you want to make crazy cool gadgets like fighting robots, weather trackers, fingerprint scanners, and so much more? Are you a beginner or intermediate programmer with basic knowledge and a willingness to learn? Then Arduino was made for you.Arduinos boards are microcontrollers that can be cleverly programmed to accomplish a range of helpful tasks and even just make silly gizmos. They are surprisingly simple to learn, so if you're afraid that your lack of programming knowledge will stop you from using one, think again.",
+    "imageUrl": "https://m.media-amazon.com/images/I/51V0dcvNCLL.jpg",
+    "rating": 4.24,
+    "keywords": [],
+    "price": 2840
+  },
+  {
+    "title": "Quickstart Python",
+    "authors": "Christoph Schäfer",
+    "description": "Christoph Schäfer introduces the great world of programming with Python and provides a quick introduction to independent script development. He points out how the programming language Python has established itself in recent years alongside MATLAB and R as a standard at scientific workplaces in research and development, and shows that the great popularity of Python is based on its easy extensibility: It is very easy to use modules from other developers in your own scripts and programs. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/314F5ZGnSTS._SL500_.jpg",
+    "rating": 4.24,
+    "keywords": [],
+    "price": 3140
+  },
+  {
+    "title": "Basic Concepts in Algorithms",
+    "authors": "Shmuel Tomi Klein",
+    "description": "This book is the result of several decades of teaching experience in data structures and algorithms. It is self-contained but does assume some prior knowledge of data structures, and a grasp of basic programming and mathematics tools. Basic Concepts in Algorithms focuses on more advanced paradigms and methods combining basic programming constructs as building blocks and their usefulness in the derivation of algorithms. Its coverage includes the algorithms' design process and an analysis of their performance. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41ON6mnEKqL._SL500_.jpg",
+    "rating": 4.24,
+    "keywords": ["Algorithms", "Data Structures"],
+    "price": 3340
+  },
+  {
+    "title": "Ladder Logic Basics",
+    "authors": "Tracy Engwer",
+    "description": "Ladder Logic Programming Software: Is Ladder logic a programming language? Which programming language is used in PLC? Is PLC programming easy? What are the 5 PLC programming languages? Plc Programming Languages: how many plc languages in total? Help you gain a deeper understanding of the RSLogix 5000 interface, the practical methods used to build a PLC program, and how to download your program onto a CompactLogix or ControlLogix PLC, also cover the basics of ladder logic programming that every beginner should know, and provide ample practical examples to help you gain a better understanding of each topic",
+    "imageUrl": "https://m.media-amazon.com/images/I/41eFhi9ANZL.jpg",
+    "rating": 4.24,
+    "keywords": ["Logic Programming"],
+    "price": 2540
+  },
+  {
+    "title": "Computer Programming For Beginners",
+    "authors": "Mason Trendell",
+    "description": "Ladder Logic Programming Software: Is Ladder logic a programming language? Which programming language is used in PLC? Is PLC programming easy? What are the 5 PLC programming languages? Plc Programming Languages: how many plc languages in total? Help you gain a deeper understanding of the RSLogix 5000 interface, the practical methods used to build a PLC program, and how to download your program onto a CompactLogix or ControlLogix PLC, also cover the basics of ladder logic programming that every beginner should know, and provide ample practical examples to help you gain a better understanding of each topic",
+    "imageUrl": "https://m.media-amazon.com/images/I/41muVT1z9OL.jpg",
+    "rating": 4.24,
+    "keywords": ["Logic Programming"],
+    "price": 3140
+  },
+  {
+    "title": "Learn DSA using Java",
+    "authors": "HASANRAZA ANSARI",
+    "description": "Data Structures are the programmatic way of storing data so that data can be used efficiently. Almost every enterprise application uses various types of data structures in one or another way. This book will give you a great understanding of the Data Structures concepts needed to understand the complexity of enterprise-level applications and the need for algorithms, data structures.This book is designed for Computer Science graduates as well as Software Professionals who are willing to learn Data Structures and algorithm Programming in simple and easy steps. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/31L8BfvDy7S._SL500_.jpg",
+    "rating": 4.24,
+    "keywords": ["Java", "Data Structures"],
+    "price": 3740
+  },
+  {
+    "title": "To Understand What Recursion Is, You Must First Understand Recursion",
+    "authors": "Bill Musk",
+    "description": "To understand what recursion is, you must first understand recursion. Features a funny software developer joke. Ideal gift for programming experts, code writers, web developers, coding specialists. Great present for the best software engineers, code monkeys, new coders, computer science students or teachers, web designers who love smart programming humor, programming jokes, programming slogans, coding sayings or programming quotes",
+    "imageUrl": "https://m.media-amazon.com/images/I/31qjtRvN4oS._SL500_.jpg",
+    "rating": 4.24,
+    "keywords": [],
+    "price": 3940
+  },
+  {
+    "title": "Learn JOGL",
+    "authors": "Prof. HR Ansari",
+    "description": "Java binding for OpenGL (JOGL) is an open-source library for binding OpenGL graphics in Java. This book provides a basic understanding of the JOGL library and its features. It also explains how to develop 2D and 3D graphics applications using JOGL.This book is designed for all enthusiastic students and professionals in the domain of web development who want to learn how to integrate OpenGL bindings in their Java applications.You need to have a basic understanding of Java programming with exposure to concepts such as AWT and Swings. In addition, it is required that you have an awareness of OpenGL graphics.",
+    "imageUrl": "https://m.media-amazon.com/images/I/41mY5dR1UPS._SL500_.jpg",
+    "rating": 4.24,
+    "keywords": [],
+    "price": 3640
+  },
+  {
+    "title": "Easy Learning Design Patterns JavaScript",
+    "authors": "yang hu",
+    "description": "Master the application design using the core design patterns and features of ES6+JavaScript. the design pattern is an elected solution for solving software design problems. This book takes you through important design patterns and explains them with real-world examples. You will get to grips with low-level details and concepts that show you how to write JavaScript code. This book will help you learn the core concepts of design patterns and the way they can be used to resolve Web Development design problems. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41gWanDMOYL._SL500_.jpg",
+    "rating": 4.24,
+    "keywords": [],
+    "price": 3940
+  },
+  {
+    "title": "Haskell Programming",
+    "authors": "Emma William",
+    "description": "A balance of flexible and inflexible qualities make Haskell a fascinating programming language to learn and use.First, the Haskell programming language is not named after Eddie Haskell, the sneaky double-dealing neighbor kid in the ancient TV sitcom, Leave It To Beaver.Haskell is named after Haskell Brooks Curry, an American mathematician and logician. If you don't know, logicians create models to describe and define human reasoning, for example, problems in mathematics, computer science, and philosophy. Haskell’s main work was in combinatory logic, a notation designed to eliminate the need for variables in mathematical logic. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41roApBRvhL._SL500_.jpg",
+    "rating": 4.24,
+    "keywords": ["Haskell"],
+    "price": 2340
+  },
+  {
+    "title": "Computer Programming And Cyber Security for Beginners",
+    "authors": "Zach Codings",
+    "description": "Do you feel that informatics is indispensable in today’s increasingly digital world? Do you want to introduce yourself to the world of programming or cyber security but don’t know where to get started? ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51jNQder+PL._SL500_.jpg",
+    "rating": 4.24,
+    "keywords": ["Malware", "Cyber Security"],
+    "price": 2840
+  },
+  {
+    "title": "Coding for Kids",
+    "authors": "Adrienne Tacke",
+    "description": "Games and activities that teach kids ages 10+ to code with Python Learning to code isn’t as hard as it sounds―you just have to get started! Coding for Kids: Python starts kids off right with 50 fun, interactive activities that teach them the basics of the Python programming language. From learning the essential building blocks of programming to creating their very own games, kids will progress through unique lessons packed with helpful examples―and a little silliness! Kids will follow along by starting to code (and debug their code) step by step, seeing the results of their coding in real time. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41Vlc8XwigL.jpg",
+    "rating": 4.24,
+    "keywords": [],
+    "price": 3140
+  },
+  {
+    "title": "Python Programming For Beginners",
+    "authors": "James Herron",
+    "description": "If you’re looking for a way to become an expert coder and impress your friends with the programs you can make from scratch, then keep reading...Pуthоn is a fun language to learn, and it is now one of the most popular programming languages, suitable for almost any task from developing graphical user interfaces to building web applications.Pуthоn is a powerful high-lеvеl, object-oriented рrоgrаmming lаnguаgе.it hаѕ ѕimрlе еаѕу-tо-uѕе ѕуntаx, making it thе perfect lаnguаgе fоr ѕоmеоnе trуing tо lеаrn соmрutеr рrоgrаmming for thе firѕt timе.If уоu аrе getting ѕtаrtеd in programming, Python iѕ аn awesome choice. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51cFWdYL2TL.jpg",
+    "rating": 4.24,
+    "keywords": ["Python"],
+    "price": 2740
+  },
+  {
+    "title": "Java",
+    "authors": "Herbert Schildt",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51v8N-Ev6bL._SL500_.jpg",
+    "rating": 4.24,
+    "keywords": ["Java"],
+    "price": 2640
+  },
+  {
+    "title": "The Complete Software Developer's Career Guide",
+    "authors": "John Sonmez",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51yr12gkjRL._SL500_.jpg",
+    "rating": 4.24,
+    "keywords": ["Career Development", "Software", "Job Interview"],
+    "price": 2540
+  },
+  {
+    "title": "Core Java Volume I--Fundamentals",
+    "authors": "Cay Horstmann",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/41tWYbxKfCL._SL500_.jpg",
+    "rating": 4.24,
+    "keywords": ["Java", "Object Oriented Programming"],
+    "price": 2840
+  },
+  {
+    "title": "Cracking the Coding Interview",
+    "authors": "Gayle Laakmann McDowell",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/41oYsXjLvZL._SL500_.jpg",
+    "rating": 4.24,
+    "keywords": ["Computer Science"],
+    "price": 3640
+  },
+  {
+    "title": "Learning C# by Developing Games with Unity 2020",
+    "authors": "Harrison Ferrone",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/512pqxUHMkL._SL500_.jpg",
+    "rating": 4.23,
+    "keywords": ["Software Development"],
+    "price": 3930
+  },
+  {
+    "title": "SQL",
+    "authors": "LCF Publishing, Jamie Chan",
+    "description": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51xD7Z6BAuL._SL500_.jpg",
+    "rating": 4.23,
+    "keywords": ["SQL", "MySQL", "Databases"],
+    "price": 3430
+  },
+  {
+    "title": "Coding Projects in Python",
+    "authors": "DK",
+    "description": "Python for beginners – you’ll learn how to build amazing graphics, fun games, and useful apps using Python, an easy yet powerful free programming language available for download.A perfect introduction to Python coding for kids ages 10 and over who are ready to take the next step after Scratch - all they need is a desktop or laptop, and an internet connection to download Python 3.Using fun graphics and easy-to-follow instructions, this straightforward, visual guide shows young learners how to build their own computer projects using Python. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51xNzTFBExL.jpg",
+    "rating": 4.23,
+    "keywords": ["Python"],
+    "price": 4030
+  },
+  {
+    "title": "JavaScript Programming",
+    "authors": "Brian Jenkins",
+    "description": "If you want to pursue a career in development with JavaScript, then this book is the best one for you. In this guide, the author will introduce you to some of the best resources to learn JavaScript from scratch.Download your copy now!!!JavaScript is an object-oriented computer programming language commonly used to create interactive effects within web browsers. This book is perfect for absolute beginners who want to learn the programming language of the web. It will help you to learn the basic parts of JavaScript. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51uj6jNCE2L.jpg",
+    "rating": 4.22,
+    "keywords": [
+      "JavaScript",
+      "Object Oriented Programming",
+      "Object-Oriented Development"
+    ],
+    "price": 2420
+  },
+  {
+    "title": "Arduino for Beginners",
+    "authors": "ETHAN THORPE",
+    "description": "Quite a few technology boards are responsible for building digital devices. They are actually the bedrock of how these devices function. However, Arduino boards are making immense waves in the digital production world nowadays as it is now primarily used for creating digital devices as well as other interactive materials with the capacity to control things physically, around the human sphere. To make things more clear, this book will enlighten the readers to know more about what Arduino is all about and encourage the best practices for learning and executing Arduino programming from scratch. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/5141yPES5+L.jpg",
+    "rating": 4.22,
+    "keywords": ["Arduino"],
+    "price": 3320
+  },
+  {
+    "title": "Dancing with Python",
+    "authors": "Robert S. Sutor",
+    "description": "Develop skills in Python and Quantum Computing by implementing exciting algorithms, mathematical functions, classical searching, data analysis, plotting data, machine learning techniques, and quantum circuits.Key FeaturesCreate quantum circuits and algorithms using Qiskit and run them on quantum computing hardware and simulatorsLearn the Pythonic way to write elegant and efficient codeDelve into Python's advanced features, including machine learning, analyzing data, and searchingBook DescriptionDancing with Python helps you learn Python and quantum computing in a practical way. ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41hsyqRvGwL._SL500_.jpg",
+    "rating": 4.22,
+    "keywords": ["Python", "Quantum Computing"],
+    "price": 3320
+  }
+]
