@@ -1,0 +1,17 @@
+.search-results {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 32px 32px;
+  margin: 32px 0 0 0;
+  padding: 0;
+}
+
+.search-result {
+    display: flex;
+    flex-direction: column;
+}
+
+.search-result-thumbnail {
+    max-width: 100%;
+}
