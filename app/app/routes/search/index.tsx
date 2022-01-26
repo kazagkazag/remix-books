@@ -12,6 +12,8 @@ export interface BookSearchResult {
   rating: number;
   imageUrl: string;
   price: number;
+  id: string;
+  slug: string;
 }
 
 export const action = async ({ request }: { request: any }) => {
@@ -26,6 +28,8 @@ export const loader = (): BookSearchResult[] => {
     rating: b.rating,
     imageUrl: b.imageUrl,
     price: b.price / 100,
+    id: b.id,
+    slug: b.slug,
   }));
 };
 
@@ -37,21 +41,23 @@ export default function SearchResults() {
       {books.map((b: BookSearchResult) => (
         <li key={b.title + b.authors}>
           <Form method="post">
-            <img
-              src={b.imageUrl}
-              alt={b.title}
-              className="search-result-thumbnail"
-            />
-            <header>
-              <h2>{b.title}</h2>
-              <h3>{b.authors}</h3>
-              <p>
-                Rating: <span>{b.rating}</span> / 5
-              </p>
-            </header>
+            <a href={"/book/" + b.slug} title={"Details about " + b.title}>
+              <img
+                src={b.imageUrl}
+                alt={b.title}
+                className="search-result-thumbnail"
+              />
+              <header>
+                <h2>{b.title}</h2>
+                <h3>{b.authors}</h3>
+                <p>
+                  Rating: <span>{b.rating}</span> / 5
+                </p>
+              </header>
+            </a>
             <div>
               <p>${b.price.toFixed(2)}</p>
-              <button type="submit" value={b.title} name="product">
+              <button type="submit" value={b.id} name="product">
                 Add to cart
               </button>
             </div>
