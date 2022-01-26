@@ -6,7 +6,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51z7XBWJb2L.jpg",
     "rating": 4.7,
     "keywords": ["Python", "JavaScript", "Design Patterns"],
-    "price": 3600
+    "price": 3600,
+    "id": "hvb7ldqfr9o",
+    "slug": "python-tricks-hvb7ldqfr9o"
   },
   {
     "title": "A Smarter Way to Learn Python",
@@ -15,7 +17,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51fNZfTUPXL.jpg",
     "rating": 4.69,
     "keywords": ["jQuery", "Python"],
-    "price": 3090
+    "price": 3090,
+    "id": "8vu6mddpu3o",
+    "slug": "a-smarter-way-to-learn-python-8vu6mddpu3o"
   },
   {
     "title": "Python Machine Learning",
@@ -24,7 +28,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41VkICdTF5L.jpg",
     "rating": 4.67,
     "keywords": ["Scikit Learn", "Neural Network", "Machine Learning"],
-    "price": 2970
+    "price": 2970,
+    "id": "rqf4obb8ed8",
+    "slug": "python-machine-learning-rqf4obb8ed8"
   },
   {
     "title": "Python Programming",
@@ -33,7 +39,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41z1V0zP2WL.jpg",
     "rating": 4.67,
     "keywords": ["Python", "Object Oriented Programming"],
-    "price": 4570
+    "price": 4570,
+    "id": "mn4c8malbu",
+    "slug": "python-programming-mn4c8malbu"
   },
   {
     "title": "Starting Out with C++ from Control Structures to Objects, Student Value Edition",
@@ -42,7 +50,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51ufBPB1HRL.jpg",
     "rating": 4.63,
     "keywords": [],
-    "price": 3530
+    "price": 3530,
+    "id": "kf8gv48fcj",
+    "slug": "starting-out-with-c---from-control-structures-to-objects--student-value-edition-kf8gv48fcj"
   },
   {
     "title": "Python Programming",
@@ -51,7 +61,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/414uUq1CJZL.jpg",
     "rating": 4.63,
     "keywords": ["Python"],
-    "price": 4430
+    "price": 4430,
+    "id": "oblsfaf41q",
+    "slug": "python-programming-oblsfaf41q"
   },
   {
     "title": "Python Programming",
@@ -60,7 +72,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41ElpVyQ9cL.jpg",
     "rating": 4.63,
     "keywords": ["Python"],
-    "price": 4030
+    "price": 4030,
+    "id": "cv9103ehq4o",
+    "slug": "python-programming-cv9103ehq4o"
   },
   {
     "title": "C++",
@@ -69,7 +83,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41xHAtjiVGL.jpg",
     "rating": 4.61,
     "keywords": ["C++"],
-    "price": 3910
+    "price": 3910,
+    "id": "veri1f8t9co",
+    "slug": "c---veri1f8t9co"
   },
   {
     "title": "Deep Learning",
@@ -78,7 +94,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51+Hrec9AxL.jpg",
     "rating": 4.6,
     "keywords": ["Python", "Deep Learning"],
-    "price": 4000
+    "price": 4000,
+    "id": "r15nh22s1hg",
+    "slug": "deep-learning-r15nh22s1hg"
   },
   {
     "title": "Arduino Programming",
@@ -87,7 +105,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41VFNO6C4HL.jpg",
     "rating": 4.59,
     "keywords": ["Arduino", "Sensors"],
-    "price": 3290
+    "price": 3290,
+    "id": "5t0bk6bpsv",
+    "slug": "arduino-programming-5t0bk6bpsv"
   },
   {
     "title": "SQL",
@@ -96,7 +116,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41qZSnkRmyL.jpg",
     "rating": 4.59,
     "keywords": [],
-    "price": 3790
+    "price": 3790,
+    "id": "qh3pohko9ao",
+    "slug": "sql-qh3pohko9ao"
   },
   {
     "title": "C++20 Recipes",
@@ -105,7 +127,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41MZo+Qib7L.jpg",
     "rating": 4.59,
     "keywords": [],
-    "price": 3090
+    "price": 3090,
+    "id": "nqk092qunr",
+    "slug": "c--20-recipes-nqk092qunr"
   },
   {
     "title": "Python Programming in Context with Cloud Desktop Access",
@@ -114,7 +138,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51llFgzrPfL.jpg",
     "rating": 4.58,
     "keywords": ["Python"],
-    "price": 2880
+    "price": 2880,
+    "id": "88cr4kfc7u",
+    "slug": "python-programming-in-context-with-cloud-desktop-access-88cr4kfc7u"
   },
   {
     "title": "Django",
@@ -123,7 +149,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41nkNFSETCL.jpg",
     "rating": 4.58,
     "keywords": ["Django"],
-    "price": 2880
+    "price": 2880,
+    "id": "j7sllikh4io",
+    "slug": "django-j7sllikh4io"
   },
   {
     "title": "Raspberry Pi",
@@ -132,7 +160,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41ICEKEY5eL.jpg",
     "rating": 4.57,
     "keywords": ["Raspberry Pi"],
-    "price": 3170
+    "price": 3170,
+    "id": "mvfv1m3utcg",
+    "slug": "raspberry-pi-mvfv1m3utcg"
   },
   {
     "title": "Java The Complete Core Reference , 11th Edition",
@@ -141,7 +171,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41iGBjmHVrL.jpg",
     "rating": 4.57,
     "keywords": ["Java"],
-    "price": 3770
+    "price": 3770,
+    "id": "rfkuvqsukm",
+    "slug": "java-the-complete-core-reference---11th-edition-rfkuvqsukm"
   },
   {
     "title": "Learn to Program with Scratch",
@@ -150,7 +182,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51CMl0YJy2L.jpg",
     "rating": 4.57,
     "keywords": [],
-    "price": 3970
+    "price": 3970,
+    "id": "ekm78chkn98",
+    "slug": "learn-to-program-with-scratch-ekm78chkn98"
   },
   {
     "title": "Excel",
@@ -159,7 +193,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51vx1A6+8jL.jpg",
     "rating": 4.56,
     "keywords": ["Microsoft Excel"],
-    "price": 4360
+    "price": 4360,
+    "id": "hfv28ijnq78",
+    "slug": "excel-hfv28ijnq78"
   },
   {
     "title": "The Quick Python Book",
@@ -168,7 +204,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41yCI3StseL.jpg",
     "rating": 4.56,
     "keywords": ["Python"],
-    "price": 3860
+    "price": 3860,
+    "id": "mrld543hvd",
+    "slug": "the-quick-python-book-mrld543hvd"
   },
   {
     "title": "Roblox",
@@ -177,7 +215,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/513LRqMQcXL.jpg",
     "rating": 4.56,
     "keywords": [],
-    "price": 3860
+    "price": 3860,
+    "id": "6grbg4i4k38",
+    "slug": "roblox-6grbg4i4k38"
   },
   {
     "title": "Java for Beginners 2018",
@@ -186,7 +226,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51mEa-0nphL.jpg",
     "rating": 4.56,
     "keywords": ["Java"],
-    "price": 4460
+    "price": 4460,
+    "id": "63iiip3i0k",
+    "slug": "java-for-beginners-2018-63iiip3i0k"
   },
   {
     "title": "Python Pocket Reference",
@@ -195,7 +237,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51HBNNoTPpL.jpg",
     "rating": 4.56,
     "keywords": ["Python", "Object Oriented Programming"],
-    "price": 2860
+    "price": 2860,
+    "id": "2r9e0902spg",
+    "slug": "python-pocket-reference-2r9e0902spg"
   },
   {
     "title": "Starting Out with Python, Student Value Edition",
@@ -204,7 +248,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41J8aep18HL.jpg",
     "rating": 4.56,
     "keywords": ["Python"],
-    "price": 2660
+    "price": 2660,
+    "id": "2s020ojfuho",
+    "slug": "starting-out-with-python--student-value-edition-2s020ojfuho"
   },
   {
     "title": "Coding",
@@ -213,7 +259,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41AHbCyNa9L.jpg",
     "rating": 4.55,
     "keywords": ["Python", "Electronics", "Raspberry Pi"],
-    "price": 3650
+    "price": 3650,
+    "id": "hrt6e7ih9tg",
+    "slug": "coding-hrt6e7ih9tg"
   },
   {
     "title": "Java",
@@ -222,7 +270,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51%2BgwRCd9PL.jpg",
     "rating": 4.55,
     "keywords": ["Java"],
-    "price": 4150
+    "price": 4150,
+    "id": "lm7f4q79ue8",
+    "slug": "java-lm7f4q79ue8"
   },
   {
     "title": "Java How to Program, Early Objects Plus MyLab Programming with Pearson eText -- Access Card Package",
@@ -231,7 +281,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51SQ%2BWtykUL.jpg",
     "rating": 4.55,
     "keywords": ["Object Oriented Programming"],
-    "price": 3250
+    "price": 3250,
+    "id": "n9gfqch8ueg",
+    "slug": "java-how-to-program--early-objects-plus-mylab-programming-with-pearson-etext----access-card-package-n9gfqch8ueg"
   },
   {
     "title": "Learning C# by Programming Games",
@@ -240,7 +292,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41fNHJvJnlL.jpg",
     "rating": 4.55,
     "keywords": ["Game Development"],
-    "price": 3750
+    "price": 3750,
+    "id": "s7g3nr0sfr8",
+    "slug": "learning-c--by-programming-games-s7g3nr0sfr8"
   },
   {
     "title": "Python Programming",
@@ -249,7 +303,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41HVwAyjdCL.jpg",
     "rating": 4.55,
     "keywords": [],
-    "price": 3350
+    "price": 3350,
+    "id": "tg2e6ro8228",
+    "slug": "python-programming-tg2e6ro8228"
   },
   {
     "title": "A Tutorial On Pointers and Arrays In C",
@@ -258,7 +314,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/4111DVotAKL.jpg",
     "rating": 4.54,
     "keywords": [],
-    "price": 3640
+    "price": 3640,
+    "id": "o9e2f7rhueg",
+    "slug": "a-tutorial-on-pointers-and-arrays-in-c-o9e2f7rhueg"
   },
   {
     "title": "Arduino",
@@ -267,7 +325,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41tK3EvYhDL.jpg",
     "rating": 4.54,
     "keywords": [],
-    "price": 3440
+    "price": 3440,
+    "id": "vs99r8kkji8",
+    "slug": "arduino-vs99r8kkji8"
   },
   {
     "title": "Excel Macros",
@@ -276,7 +336,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51EN-VpezLL.jpg",
     "rating": 4.54,
     "keywords": [],
-    "price": 3340
+    "price": 3340,
+    "id": "qogmjlmvjbg",
+    "slug": "excel-macros-qogmjlmvjbg"
   },
   {
     "title": "Java",
@@ -285,7 +347,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51nrTPhZ26L.jpg",
     "rating": 4.54,
     "keywords": ["Java"],
-    "price": 3740
+    "price": 3740,
+    "id": "83v7hksr608",
+    "slug": "java-83v7hksr608"
   },
   {
     "title": "Linux",
@@ -294,7 +358,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51CPj1N8Y2L.jpg",
     "rating": 4.54,
     "keywords": ["Linux", "Python"],
-    "price": 4340
+    "price": 4340,
+    "id": "o17dtb9316g",
+    "slug": "linux-o17dtb9316g"
   },
   {
     "title": "Beginning Visual Basic",
@@ -303,7 +369,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51GLMIYLmQL.jpg",
     "rating": 4.54,
     "keywords": ["Visual Basic"],
-    "price": 3340
+    "price": 3340,
+    "id": "qgoa9a80glo",
+    "slug": "beginning-visual-basic-qgoa9a80glo"
   },
   {
     "title": "Introduction to Algorithms and Data Structures in Swift 4",
@@ -312,7 +380,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41TEerjUlaL.jpg",
     "rating": 4.54,
     "keywords": ["Swift", "Data Structures"],
-    "price": 3040
+    "price": 3040,
+    "id": "ls3m2tni4bo",
+    "slug": "introduction-to-algorithms-and-data-structures-in-swift-4-ls3m2tni4bo"
   },
   {
     "title": "Arm Assembly for Embedded Applications, 4th Edition",
@@ -321,7 +391,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51Cdo0iFsJL.jpg",
     "rating": 4.54,
     "keywords": [],
-    "price": 4040
+    "price": 4040,
+    "id": "8749otfup0o",
+    "slug": "arm-assembly-for-embedded-applications--4th-edition-8749otfup0o"
   },
   {
     "title": "FORTRAN 77",
@@ -330,7 +402,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/416j9bnvArL.jpg",
     "rating": 4.54,
     "keywords": ["Fortran"],
-    "price": 2740
+    "price": 2740,
+    "id": "6ncn3dhduu",
+    "slug": "fortran-77-6ncn3dhduu"
   },
   {
     "title": "Python Programming",
@@ -339,7 +413,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/4191DNJ9ByL.jpg",
     "rating": 4.52,
     "keywords": ["Python"],
-    "price": 3520
+    "price": 3520,
+    "id": "l7bpfescg3o",
+    "slug": "python-programming-l7bpfescg3o"
   },
   {
     "title": "C++ How to Program Plus MyLab Programming with Pearson eText -- Access Card Package",
@@ -348,7 +424,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/5172fLTlvpL.jpg",
     "rating": 4.52,
     "keywords": [],
-    "price": 4020
+    "price": 4020,
+    "id": "7166ii45gb8",
+    "slug": "c---how-to-program-plus-mylab-programming-with-pearson-etext----access-card-package-7166ii45gb8"
   },
   {
     "title": "The Tao of Programming",
@@ -357,7 +435,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/510Q4YKK9ML.jpg",
     "rating": 4.5,
     "keywords": ["Software Development", "Software Engineering"],
-    "price": 3900
+    "price": 3900,
+    "id": "huofcf2mg08",
+    "slug": "the-tao-of-programming-huofcf2mg08"
   },
   {
     "title": "Excel",
@@ -366,7 +446,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51HpFT5SFrL.jpg",
     "rating": 4.49,
     "keywords": ["Visual Basic", "Microsoft Excel", "Microsoft Office"],
-    "price": 3390
+    "price": 3390,
+    "id": "35pj2n8vtfg",
+    "slug": "excel-35pj2n8vtfg"
   },
   {
     "title": "Sql",
@@ -375,7 +457,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41ukjIRg1OL.jpg",
     "rating": 4.48,
     "keywords": ["SQL", "SQL Server"],
-    "price": 4280
+    "price": 4280,
+    "id": "kpipsoac4j",
+    "slug": "sql-kpipsoac4j"
   },
   {
     "title": "SCALA",
@@ -384,7 +468,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41wOZ1n2%2BXL.jpg",
     "rating": 4.47,
     "keywords": ["Scala"],
-    "price": 2870
+    "price": 2870,
+    "id": "17kg6rfvsvg",
+    "slug": "scala-17kg6rfvsvg"
   },
   {
     "title": "Computer Programming",
@@ -393,7 +479,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51GQTKOqE-L.jpg",
     "rating": 4.45,
     "keywords": ["MySQL", "Python", "Databases"],
-    "price": 3750
+    "price": 3750,
+    "id": "4bofi6nocug",
+    "slug": "computer-programming-4bofi6nocug"
   },
   {
     "title": "Building a Mobile App",
@@ -402,7 +490,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51fdvrFIhpL.jpg",
     "rating": 4.44,
     "keywords": ["Android", "Mobile Development", "Android Development"],
-    "price": 3340
+    "price": 3340,
+    "id": "78a4o8gr8ug",
+    "slug": "building-a-mobile-app-78a4o8gr8ug"
   },
   {
     "title": "Beginning Python",
@@ -411,7 +501,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51QPSKiHgtL.jpg",
     "rating": 4.42,
     "keywords": ["Python", "Database Internals"],
-    "price": 3820
+    "price": 3820,
+    "id": "vo5r3jeu248",
+    "slug": "beginning-python-vo5r3jeu248"
   },
   {
     "title": "Unix Programming Environment",
@@ -420,7 +512,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41W7vWO2zJL.jpg",
     "rating": 4.38,
     "keywords": ["Unix", "File Systems"],
-    "price": 3280
+    "price": 3280,
+    "id": "d9ajan4lak",
+    "slug": "unix-programming-environment-d9ajan4lak"
   },
   {
     "title": "PYTHON PROGRAMMING",
@@ -429,7 +523,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51peAwmNI-L.jpg",
     "rating": 4.37,
     "keywords": ["Python", "Deep Learning"],
-    "price": 4170
+    "price": 4170,
+    "id": "06ea6as4rc8",
+    "slug": "python-programming-06ea6as4rc8"
   },
   {
     "title": "Refactoring",
@@ -438,7 +534,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41odjJlPgHL._SL500_.jpg",
     "rating": 4.36,
     "keywords": ["Refactoring", "Software Design"],
-    "price": 4260
+    "price": 4260,
+    "id": "c9ft84pcts",
+    "slug": "refactoring-c9ft84pcts"
   },
   {
     "title": "Structure and Interpretation of Computer Programs",
@@ -451,7 +549,9 @@
       "Computer Science",
       "Software Engineering"
     ],
-    "price": 3350
+    "price": 3350,
+    "id": "epodcar7478",
+    "slug": "structure-and-interpretation-of-computer-programs-epodcar7478"
   },
   {
     "title": "Coding by Doing",
@@ -460,7 +560,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/417B2vELRQL.jpg",
     "rating": 4.32,
     "keywords": ["SQL"],
-    "price": 3820
+    "price": 3820,
+    "id": "i3qfi2dns9o",
+    "slug": "coding-by-doing-i3qfi2dns9o"
   },
   {
     "title": "Eloquent JavaScript, 3rd Edition",
@@ -469,7 +571,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51-5ZXYtcML._SL500_.jpg",
     "rating": 4.31,
     "keywords": ["JavaScript", "Functional Programming"],
-    "price": 3310
+    "price": 3310,
+    "id": "4i5f710tbu",
+    "slug": "eloquent-javascript--3rd-edition-4i5f710tbu"
   },
   {
     "title": "Python Crash Course, 2nd Edition",
@@ -478,7 +582,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51OOCVBfCQL._SL500_.jpg",
     "rating": 4.3,
     "keywords": ["Numpy", "Python", "Clean Code"],
-    "price": 3800
+    "price": 3800,
+    "id": "r1sntm0ebj",
+    "slug": "python-crash-course--2nd-edition-r1sntm0ebj"
   },
   {
     "title": "The Pragmatic Programmer",
@@ -487,7 +593,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/518FqJvR9aL._SL500_.jpg",
     "rating": 4.3,
     "keywords": ["Software"],
-    "price": 2400
+    "price": 2400,
+    "id": "6ulpj5lgqk",
+    "slug": "the-pragmatic-programmer-6ulpj5lgqk"
   },
   {
     "title": "Soft Skills",
@@ -496,7 +604,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41xAvN6ObWL._SL500_.jpg",
     "rating": 4.3,
     "keywords": ["Software", "Software Development"],
-    "price": 3600
+    "price": 3600,
+    "id": "2d2sru9enag",
+    "slug": "soft-skills-2d2sru9enag"
   },
   {
     "title": "Automate the Boring Stuff with Python, 2nd Edition",
@@ -505,7 +615,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51B161E04DL._SL500_.jpg",
     "rating": 4.29,
     "keywords": ["Python", "Web Scraping"],
-    "price": 3890
+    "price": 3890,
+    "id": "ifpourhribg",
+    "slug": "automate-the-boring-stuff-with-python--2nd-edition-ifpourhribg"
   },
   {
     "title": "Clean Architecture",
@@ -520,7 +632,9 @@
       "Software Design",
       "Software Architecture"
     ],
-    "price": 3990
+    "price": 3990,
+    "id": "1u29q7j57vg",
+    "slug": "clean-architecture-1u29q7j57vg"
   },
   {
     "title": "A Common-Sense Guide to Data Structures and Algorithms, Second Edition",
@@ -536,7 +650,9 @@
       "Data Science",
       " (show all)"
     ],
-    "price": 2490
+    "price": 2490,
+    "id": "570gmqrclp",
+    "slug": "a-common-sense-guide-to-data-structures-and-algorithms--second-edition-570gmqrclp"
   },
   {
     "title": "A Tour of C++",
@@ -545,7 +661,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51YqN2aew6L.jpg",
     "rating": 4.29,
     "keywords": ["C++"],
-    "price": 3190
+    "price": 3190,
+    "id": "sesjn2vpfmg",
+    "slug": "a-tour-of-c---sesjn2vpfmg"
   },
   {
     "title": "Effective Java",
@@ -554,7 +672,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51wl8cINKYL._SL500_.jpg",
     "rating": 4.28,
     "keywords": ["API", "Java"],
-    "price": 3280
+    "price": 3280,
+    "id": "u1ei4t2atsg",
+    "slug": "effective-java-u1ei4t2atsg"
   },
   {
     "title": "Python For Data Analysis",
@@ -563,7 +683,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51+z9xpQcEL._SL500_.jpg",
     "rating": 4.27,
     "keywords": ["Numpy", "Data Science"],
-    "price": 3270
+    "price": 3270,
+    "id": "nb172kicob",
+    "slug": "python-for-data-analysis-nb172kicob"
   },
   {
     "title": "Effective Python",
@@ -572,7 +694,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41iB6CmmeLL._SL500_.jpg",
     "rating": 4.27,
     "keywords": ["Python"],
-    "price": 3770
+    "price": 3770,
+    "id": "shpfuner28o",
+    "slug": "effective-python-shpfuner28o"
   },
   {
     "title": "Python Programming",
@@ -581,7 +705,9 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/414GexLPyTL.jpg",
     "rating": 4.27,
     "keywords": [],
-    "price": 2570
+    "price": 2570,
+    "id": "vfg8qil0b1",
+    "slug": "python-programming-vfg8qil0b1"
   },
   {
     "title": "You Don't Know JS Yet",
@@ -590,7 +716,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/410f-bUBR3L._SL500_.jpg",
     "rating": 4.27,
     "keywords": ["JavaScript", "API Development"],
-    "price": 3770
+    "price": 3770,
+    "id": "76mr9h5cnsg",
+    "slug": "you-don-t-know-js-yet-76mr9h5cnsg"
   },
   {
     "title": "Arduino",
@@ -599,7 +727,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/515NFhUzo1L.jpg",
     "rating": 4.27,
     "keywords": ["Arduino"],
-    "price": 3370
+    "price": 3370,
+    "id": "5cqm3k2ilso",
+    "slug": "arduino-5cqm3k2ilso"
   },
   {
     "title": "The Rust Programming Language",
@@ -608,7 +738,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51FeXpSFXdL._SL500_.jpg",
     "rating": 4.26,
     "keywords": ["Rust", "Software Development"],
-    "price": 2860
+    "price": 2860,
+    "id": "d38apt4gs5",
+    "slug": "the-rust-programming-language-d38apt4gs5"
   },
   {
     "title": "Algorithms Illuminated",
@@ -617,7 +749,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51gIuC4rhyL._SL500_.jpg",
     "rating": 4.26,
     "keywords": ["Algorithms", "Computer Science", "Algorithm Analysis"],
-    "price": 2360
+    "price": 2360,
+    "id": "umfiqr7lgd",
+    "slug": "algorithms-illuminated-umfiqr7lgd"
   },
   {
     "title": "Software Engineering at Google",
@@ -626,7 +760,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/410MEGnUOCL._SL500_.jpg",
     "rating": 4.25,
     "keywords": ["Google", "Software", "Engineering", "Software Development"],
-    "price": 3450
+    "price": 3450,
+    "id": "2l5hm409l0g",
+    "slug": "software-engineering-at-google-2l5hm409l0g"
   },
   {
     "title": "Mastering Python Networking",
@@ -642,7 +778,9 @@
       "Software Automation",
       " (show all)"
     ],
-    "price": 3550
+    "price": 3550,
+    "id": "u2h3887cshg",
+    "slug": "mastering-python-networking-u2h3887cshg"
   },
   {
     "title": "Learn JavaScript Quickly",
@@ -651,7 +789,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51F8Q2HHw-L._SL500_.jpg",
     "rating": 4.25,
     "keywords": ["JavaScript"],
-    "price": 2950
+    "price": 2950,
+    "id": "8trk6h9s7lo",
+    "slug": "learn-javascript-quickly-8trk6h9s7lo"
   },
   {
     "title": "Programming for Computations",
@@ -660,7 +800,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/4129RvRG9VL._SL500_.jpg",
     "rating": 4.25,
     "keywords": ["Matlab", "Computer Simulation", "Numerical Algorithms"],
-    "price": 3650
+    "price": 3650,
+    "id": "b2u8vnmj8q",
+    "slug": "programming-for-computations-b2u8vnmj8q"
   },
   {
     "title": "Excel VBA",
@@ -669,7 +811,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41FYLpuyrRL.jpg",
     "rating": 4.25,
     "keywords": ["VBA", "Visual Basic"],
-    "price": 4050
+    "price": 4050,
+    "id": "li03apkntg8",
+    "slug": "excel-vba-li03apkntg8"
   },
   {
     "title": "Go Programming Language",
@@ -678,7 +822,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/510Qib-dSCL._SL500_.jpg",
     "rating": 4.25,
     "keywords": [],
-    "price": 3850
+    "price": 3850,
+    "id": "scqf0bggc5",
+    "slug": "go-programming-language-scqf0bggc5"
   },
   {
     "title": "C# in Depth",
@@ -687,7 +833,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41iLDz74c-L._SL500_.jpg",
     "rating": 4.25,
     "keywords": ["C#", "LINQ"],
-    "price": 3550
+    "price": 3550,
+    "id": "17it1352ch",
+    "slug": "c--in-depth-17it1352ch"
   },
   {
     "title": "Programming Games with Visual Basic",
@@ -696,7 +844,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51SUEqoRokL._SL500_.jpg",
     "rating": 4.24,
     "keywords": ["Visual Basic"],
-    "price": 3740
+    "price": 3740,
+    "id": "93fpuh0tik8",
+    "slug": "programming-games-with-visual-basic-93fpuh0tik8"
   },
   {
     "title": "C#",
@@ -705,7 +855,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51B+HDLQL-L._SL500_.jpg",
     "rating": 4.24,
     "keywords": [],
-    "price": 2740
+    "price": 2740,
+    "id": "mgg3bqhkml8",
+    "slug": "c--mgg3bqhkml8"
   },
   {
     "title": "Learn Fortran Programming",
@@ -714,7 +866,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51zA-DLLrqL.jpg",
     "rating": 4.24,
     "keywords": [],
-    "price": 4040
+    "price": 4040,
+    "id": "amkfqklead8",
+    "slug": "learn-fortran-programming-amkfqklead8"
   },
   {
     "title": "Arduino for Beginners",
@@ -723,7 +877,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51V0dcvNCLL.jpg",
     "rating": 4.24,
     "keywords": [],
-    "price": 2840
+    "price": 2840,
+    "id": "mgf8tapcdm",
+    "slug": "arduino-for-beginners-mgf8tapcdm"
   },
   {
     "title": "Quickstart Python",
@@ -732,7 +888,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/314F5ZGnSTS._SL500_.jpg",
     "rating": 4.24,
     "keywords": [],
-    "price": 3140
+    "price": 3140,
+    "id": "p8rkslo2jao",
+    "slug": "quickstart-python-p8rkslo2jao"
   },
   {
     "title": "Basic Concepts in Algorithms",
@@ -741,7 +899,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41ON6mnEKqL._SL500_.jpg",
     "rating": 4.24,
     "keywords": ["Algorithms", "Data Structures"],
-    "price": 3340
+    "price": 3340,
+    "id": "u3mpm7c8p6",
+    "slug": "basic-concepts-in-algorithms-u3mpm7c8p6"
   },
   {
     "title": "Ladder Logic Basics",
@@ -750,7 +910,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41eFhi9ANZL.jpg",
     "rating": 4.24,
     "keywords": ["Logic Programming"],
-    "price": 2540
+    "price": 2540,
+    "id": "6fj984jon08",
+    "slug": "ladder-logic-basics-6fj984jon08"
   },
   {
     "title": "Computer Programming For Beginners",
@@ -759,7 +921,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41muVT1z9OL.jpg",
     "rating": 4.24,
     "keywords": ["Logic Programming"],
-    "price": 3140
+    "price": 3140,
+    "id": "e6eqap9div",
+    "slug": "computer-programming-for-beginners-e6eqap9div"
   },
   {
     "title": "Learn DSA using Java",
@@ -768,7 +932,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/31L8BfvDy7S._SL500_.jpg",
     "rating": 4.24,
     "keywords": ["Java", "Data Structures"],
-    "price": 3740
+    "price": 3740,
+    "id": "3kj2dflqdn8",
+    "slug": "learn-dsa-using-java-3kj2dflqdn8"
   },
   {
     "title": "To Understand What Recursion Is, You Must First Understand Recursion",
@@ -777,7 +943,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/31qjtRvN4oS._SL500_.jpg",
     "rating": 4.24,
     "keywords": [],
-    "price": 3940
+    "price": 3940,
+    "id": "ca6qo73c6co",
+    "slug": "to-understand-what-recursion-is--you-must-first-understand-recursion-ca6qo73c6co"
   },
   {
     "title": "Learn JOGL",
@@ -786,7 +954,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41mY5dR1UPS._SL500_.jpg",
     "rating": 4.24,
     "keywords": [],
-    "price": 3640
+    "price": 3640,
+    "id": "8rvb8sla08o",
+    "slug": "learn-jogl-8rvb8sla08o"
   },
   {
     "title": "Easy Learning Design Patterns JavaScript",
@@ -795,7 +965,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41gWanDMOYL._SL500_.jpg",
     "rating": 4.24,
     "keywords": [],
-    "price": 3940
+    "price": 3940,
+    "id": "ru39btvb7tg",
+    "slug": "easy-learning-design-patterns-javascript-ru39btvb7tg"
   },
   {
     "title": "Haskell Programming",
@@ -804,7 +976,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41roApBRvhL._SL500_.jpg",
     "rating": 4.24,
     "keywords": ["Haskell"],
-    "price": 2340
+    "price": 2340,
+    "id": "om3i5efujtg",
+    "slug": "haskell-programming-om3i5efujtg"
   },
   {
     "title": "Computer Programming And Cyber Security for Beginners",
@@ -813,7 +987,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51jNQder+PL._SL500_.jpg",
     "rating": 4.24,
     "keywords": ["Malware", "Cyber Security"],
-    "price": 2840
+    "price": 2840,
+    "id": "v1fp3h5sato",
+    "slug": "computer-programming-and-cyber-security-for-beginners-v1fp3h5sato"
   },
   {
     "title": "Coding for Kids",
@@ -822,7 +998,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41Vlc8XwigL.jpg",
     "rating": 4.24,
     "keywords": [],
-    "price": 3140
+    "price": 3140,
+    "id": "219h0monffg",
+    "slug": "coding-for-kids-219h0monffg"
   },
   {
     "title": "Python Programming For Beginners",
@@ -831,7 +1009,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51cFWdYL2TL.jpg",
     "rating": 4.24,
     "keywords": ["Python"],
-    "price": 2740
+    "price": 2740,
+    "id": "nhtida7fkpg",
+    "slug": "python-programming-for-beginners-nhtida7fkpg"
   },
   {
     "title": "Java",
@@ -840,7 +1020,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51v8N-Ev6bL._SL500_.jpg",
     "rating": 4.24,
     "keywords": ["Java"],
-    "price": 2640
+    "price": 2640,
+    "id": "r2e9hqb9u1",
+    "slug": "java-r2e9hqb9u1"
   },
   {
     "title": "The Complete Software Developer's Career Guide",
@@ -849,7 +1031,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51yr12gkjRL._SL500_.jpg",
     "rating": 4.24,
     "keywords": ["Career Development", "Software", "Job Interview"],
-    "price": 2540
+    "price": 2540,
+    "id": "trj7a503u8g",
+    "slug": "the-complete-software-developer-s-career-guide-trj7a503u8g"
   },
   {
     "title": "Core Java Volume I--Fundamentals",
@@ -858,7 +1042,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41tWYbxKfCL._SL500_.jpg",
     "rating": 4.24,
     "keywords": ["Java", "Object Oriented Programming"],
-    "price": 2840
+    "price": 2840,
+    "id": "usfkf0mbcbo",
+    "slug": "core-java-volume-i--fundamentals-usfkf0mbcbo"
   },
   {
     "title": "Cracking the Coding Interview",
@@ -867,7 +1053,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41oYsXjLvZL._SL500_.jpg",
     "rating": 4.24,
     "keywords": ["Computer Science"],
-    "price": 3640
+    "price": 3640,
+    "id": "hi9kmamktbo",
+    "slug": "cracking-the-coding-interview-hi9kmamktbo"
   },
   {
     "title": "Learning C# by Developing Games with Unity 2020",
@@ -876,7 +1064,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/512pqxUHMkL._SL500_.jpg",
     "rating": 4.23,
     "keywords": ["Software Development"],
-    "price": 3930
+    "price": 3930,
+    "id": "p7e8up51fh8",
+    "slug": "learning-c--by-developing-games-with-unity-2020-p7e8up51fh8"
   },
   {
     "title": "SQL",
@@ -885,7 +1075,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51xD7Z6BAuL._SL500_.jpg",
     "rating": 4.23,
     "keywords": ["SQL", "MySQL", "Databases"],
-    "price": 3430
+    "price": 3430,
+    "id": "1aigl7ulr2",
+    "slug": "sql-1aigl7ulr2"
   },
   {
     "title": "Coding Projects in Python",
@@ -894,7 +1086,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51xNzTFBExL.jpg",
     "rating": 4.23,
     "keywords": ["Python"],
-    "price": 4030
+    "price": 4030,
+    "id": "rcs8cc42ojg",
+    "slug": "coding-projects-in-python-rcs8cc42ojg"
   },
   {
     "title": "JavaScript Programming",
@@ -907,7 +1101,9 @@
       "Object Oriented Programming",
       "Object-Oriented Development"
     ],
-    "price": 2420
+    "price": 2420,
+    "id": "di32uuhnip8",
+    "slug": "javascript-programming-di32uuhnip8"
   },
   {
     "title": "Arduino for Beginners",
@@ -916,7 +1112,9 @@
     "imageUrl": "https://m.media-amazon.com/images/I/5141yPES5+L.jpg",
     "rating": 4.22,
     "keywords": ["Arduino"],
-    "price": 3320
+    "price": 3320,
+    "id": "eqg7r0ht3o8",
+    "slug": "arduino-for-beginners-eqg7r0ht3o8"
   },
   {
     "title": "Dancing with Python",
@@ -925,6 +1123,8 @@
     "imageUrl": "https://m.media-amazon.com/images/I/41hsyqRvGwL._SL500_.jpg",
     "rating": 4.22,
     "keywords": ["Python", "Quantum Computing"],
-    "price": 3320
+    "price": 3320,
+    "id": "v0kajh0tthg",
+    "slug": "dancing-with-python-v0kajh0tthg"
   }
 ]
