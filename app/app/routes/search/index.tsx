@@ -1,6 +1,7 @@
-import { Form, useLoaderData } from "remix";
+import { ActionFunction, Form, useLoaderData } from "remix";
 import books from "../../data/books.json";
 import styles from "~/search/searchResults.css";
+import { getCurrentQuery, setQuery } from "~/search/query";
 
 export function links() {
   return [{ rel: "stylesheet", href: styles }];
@@ -16,12 +17,20 @@ export interface BookSearchResult {
   slug: string;
 }
 
-export const action = async ({ request }: { request: any }) => {
-  console.log(await request.formData());
+export const action: ActionFunction = async ({ request }) => {
+  const form = await request.formData();
+  const query = form.get("query") as string;
+
+  setQuery(query || "");
+
+  console.log(`Query ${query} has been set.`);
+
   return null;
 };
 
 export const loader = (): BookSearchResult[] => {
+  console.log("Running the loader for search/index");
+  console.log("Currently active query:", getCurrentQuery());
   return books.map((b) => ({
     title: b.title,
     authors: b.authors,
@@ -35,6 +44,12 @@ export const loader = (): BookSearchResult[] => {
 
 export default function SearchResults() {
   const books = useLoaderData<BookSearchResult[]>();
+
+  console.log({ books: typeof books });
+
+  if (!books) {
+    return <p>ERROR</p>;
+  }
 
   return (
     <ul className="search-results">

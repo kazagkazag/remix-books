@@ -1,4 +1,5 @@
-import { Outlet } from "remix";
+import { ActionFunction, Form, Outlet } from "remix";
+import { setQuery } from "~/search/query";
 import {
   SearchBox,
   links as searchBoxLinks,
@@ -17,7 +18,9 @@ export default function Index() {
         <h1 className="title">Best Books!</h1>
       </header>
       <section>
-        <SearchBox />
+        <Form method="post" action="/search?index">
+          <SearchBox />
+        </Form>
         <Outlet />
       </section>
     </main>
