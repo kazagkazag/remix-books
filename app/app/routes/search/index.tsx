@@ -1,7 +1,6 @@
-import { ActionFunction, Form, useLoaderData } from "remix";
-import books from "../../data/books.json";
+import { Form, LoaderFunction, useLoaderData } from "remix";
+import booksDB from "../../data/books.json";
 import styles from "~/modules/search/searchResults.css";
-import { getCurrentQuery, setQuery } from "~/modules/search/query";
 
 export function links() {
   return [{ rel: "stylesheet", href: styles }];
@@ -17,21 +16,13 @@ export interface BookSearchResult {
   slug: string;
 }
 
-export const action: ActionFunction = async ({ request }) => {
-  const form = await request.formData();
-  const query = form.get("query") as string;
+export const loader: LoaderFunction = ({ request }): BookSearchResult[] => {
+  const query = new URL(request.url).searchParams.get("query")?.toLowerCase();
 
-  setQuery(query || "");
-
-  console.log(`Query ${query} has been set.`);
-
-  return null;
-};
-
-export const loader = (): BookSearchResult[] => {
   console.log("Running the loader for search/index");
-  console.log("Currently active query:", getCurrentQuery());
-  return books.map((b) => ({
+  console.log("Currently active query:", query);
+
+  const books = booksDB.map((b) => ({
     title: b.title,
     authors: b.authors,
     rating: b.rating,
@@ -40,6 +31,10 @@ export const loader = (): BookSearchResult[] => {
     id: b.id,
     slug: b.slug,
   }));
+
+  return query
+    ? books.filter((b) => b.title.toLowerCase().includes(query))
+    : books;
 };
 
 export default function SearchResults() {

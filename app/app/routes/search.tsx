@@ -17,7 +17,7 @@ export default function Index() {
         <h1 className="title">Best Books!</h1>
       </header>
       <section>
-        <Form method="post" action="/search?index">
+        <Form method="get" action="/search?index">
           <SearchBox />
         </Form>
         <Outlet />
