@@ -1,6 +1,6 @@
 import { useLoaderData } from "remix";
 import books from "../../data/books.json";
-import styles from "~/book/book.css";
+import styles from "~/modules/book/book.css";
 
 export function links() {
   return [{ rel: "stylesheet", href: styles }];

@@ -1,6 +1,6 @@
 import { ActionFunction, Form, useLoaderData } from "remix";
 import books from "../../data/books.json";
-import styles from "~/search/searchResults.css";
+import styles from "~/modules/search/searchResults.css";
 import { getCurrentQuery, setQuery } from "~/modules/search/query";
 
 export function links() {

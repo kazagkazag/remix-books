@@ -4,7 +4,7 @@ import {
   links as searchBoxLinks,
 } from "~/modules/search/searchBox/searchBox";
 
-import styles from "../search/index.css";
+import styles from "~/modules/search/index.css";
 
 export function links() {
   return [...searchBoxLinks(), { rel: "stylesheet", href: styles }];
