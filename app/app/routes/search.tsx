@@ -1,9 +1,8 @@
-import { ActionFunction, Form, Outlet } from "remix";
-import { setQuery } from "~/search/query";
+import { Form, Outlet } from "remix";
 import {
   SearchBox,
   links as searchBoxLinks,
-} from "~/search/searchBox/searchBox";
+} from "~/modules/search/searchBox/searchBox";
 
 import styles from "../search/index.css";
 
