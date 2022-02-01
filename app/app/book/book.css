@@ -1,0 +1,50 @@
+.book {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-areas:
+    "breadcrumbs breadcrumbs"
+    "head head"
+    "image description"
+    "image offer";
+  grid-template-rows: 2rem auto 1fr auto;
+
+  line-height: 1;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.breadcrumbs {
+  grid-area: breadcrumbs;
+  display: flex;
+  align-items: center;
+}
+
+.go-back {
+  border: none;
+  background: none;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.head {
+  grid-area: head;
+}
+
+.image {
+  grid-area: image;
+  margin-right: 2rem;
+}
+
+.description {
+  grid-area: description;
+}
+
+.offer {
+  grid-area: offer;
+  display: flex;
+}
+
+.price {
+  font-size: 2rem;
+  margin-right: 2rem;
+}
