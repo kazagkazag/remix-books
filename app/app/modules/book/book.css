@@ -48,3 +48,12 @@
   font-size: 2rem;
   margin-right: 2rem;
 }
+
+.notification {
+  margin: 0 1rem;
+  background: yellowgreen;
+  padding: 1rem;
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+}
