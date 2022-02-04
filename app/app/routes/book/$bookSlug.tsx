@@ -6,22 +6,13 @@ import {
   useLoaderData,
   useTransition,
 } from "remix";
-import books from "../../data/books.json";
 import styles from "~/modules/book/book.css";
 import { cartCookie } from "~/modules/cart/cookies";
+import { Book } from "~/modules/book/Book";
+import { getBySlug } from "~/modules/book/getOne";
 
 export function links() {
   return [{ rel: "stylesheet", href: styles }];
-}
-
-interface Book {
-  title: string;
-  authors: string;
-  rating: number;
-  imageUrl: string;
-  price: number;
-  id: string;
-  description: string;
 }
 
 export const loader = ({
@@ -29,7 +20,7 @@ export const loader = ({
 }: {
   params: { bookSlug: string };
 }): Book | null => {
-  return books.find((b) => b.slug === params.bookSlug) ?? null;
+  return getBySlug(params.bookSlug) ?? null;
 };
 
 export const action: ActionFunction = async ({ request }) => {

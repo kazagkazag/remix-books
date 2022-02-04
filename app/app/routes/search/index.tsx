@@ -1,19 +1,10 @@
 import { Form, LoaderFunction, useLoaderData } from "remix";
-import booksDB from "../../data/books.json";
 import styles from "~/modules/search/searchResults.css";
+import { BookSearchResult } from "~/modules/book/BookSearchResult";
+import { getAll } from "~/modules/book/getMany";
 
 export function links() {
   return [{ rel: "stylesheet", href: styles }];
-}
-
-export interface BookSearchResult {
-  title: string;
-  authors: string;
-  rating: number;
-  imageUrl: string;
-  price: number;
-  id: string;
-  slug: string;
 }
 
 export const loader: LoaderFunction = ({ request }): BookSearchResult[] => {
@@ -22,7 +13,7 @@ export const loader: LoaderFunction = ({ request }): BookSearchResult[] => {
   console.log("Running the loader for search/index");
   console.log("Currently active query:", query);
 
-  const books = booksDB.map((b) => ({
+  const books = getAll().map((b) => ({
     title: b.title,
     authors: b.authors,
     rating: b.rating,
