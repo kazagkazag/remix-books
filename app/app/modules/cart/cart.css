@@ -1,0 +1,65 @@
+.cart {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-areas:
+    "notification notification"
+    "head head"
+    "items delivery"
+    "footer footer";
+
+  line-height: 1;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+  grid-area: head;
+}
+
+.items {
+  grid-area: items;
+}
+
+.items-list {
+  list-style: decimal;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+.item {
+  font-size: 1.5rem;
+  padding: 0;
+  margin: 0 0 1rem 0;
+}
+
+.delivery {
+  grid-area: delivery;
+  display: flex;
+  flex-direction: column;
+}
+
+.delivery label {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 1rem 0;
+}
+
+.delivery input {
+  margin: 0.5rem 0 0 0;
+}
+
+.summary {
+  grid-area: footer;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.notification {
+  grid-area: notification;
+  background-color: rgb(189, 255, 237);
+  font-size: 2rem;
+  padding: 1rem;
+  width: 100%;
+}
