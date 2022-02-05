@@ -10,6 +10,7 @@ import styles from "~/modules/book/book.css";
 import { cartCookie } from "~/modules/cart/cookies";
 import { Book } from "~/modules/book/Book";
 import { getBySlug } from "~/modules/book/getOne";
+import { Link } from "react-router-dom";
 
 export function links() {
   return [{ rel: "stylesheet", href: styles }];
@@ -85,7 +86,11 @@ export default function Book() {
         <button type="submit">
           {addingToCartRequest.submission ? "Adding..." : "Add to cart"}
         </button>
-        {addingToCart?.success ? <p className="notification">Added!</p> : null}
+        {addingToCart?.success ? (
+          <p className="notification">
+            Added! Go to <Link to="/cart">the cart</Link>.
+          </p>
+        ) : null}
       </Form>
     </article>
   );
