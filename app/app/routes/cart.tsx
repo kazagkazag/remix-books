@@ -1,4 +1,11 @@
-import { Form, LoaderFunction, useLoaderData } from "remix";
+import { Link } from "react-router-dom";
+import {
+  ActionFunction,
+  Form,
+  json,
+  LoaderFunction,
+  useLoaderData,
+} from "remix";
 import { Book } from "~/modules/book/Book";
 import { getManyByIDs } from "~/modules/book/getMany";
 import styles from "~/modules/cart/cart.css";
@@ -8,13 +15,36 @@ export function links() {
   return [{ rel: "stylesheet", href: styles }];
 }
 
+export const action: ActionFunction = async ({ request }) => {
+  const data = await request.formData();
+  const task = data.get("task");
+
+  if (task === "delete") {
+    const bookIdToDelete = data.get("id");
+    const oldCookieValue = await cartCookie.parse(
+      request.headers.get("Cookie")
+    );
+    const newCookieValue = oldCookieValue.filter(
+      (b: string) => b !== bookIdToDelete
+    );
+    return json(
+      {
+        success: true,
+      },
+      {
+        headers: { "Set-Cookie": await cartCookie.serialize(newCookieValue) },
+      }
+    );
+  }
+
+  return json({ success: true });
+};
+
 export const loader: LoaderFunction = async ({ request }) => {
   const bookIDsCurrentlyInCart = await cartCookie.parse(
     request.headers.get("Cookie")
   );
   const booksInCart = getManyByIDs(bookIDsCurrentlyInCart);
-
-  console.log(booksInCart);
 
   return booksInCart;
 };
@@ -29,18 +59,28 @@ export default function Cart() {
   const noOfBooks = books.length;
 
   return (
-    <Form className="cart">
+    <main className="cart">
       <header className="header">
         <h1>Cart</h1>
         <h2>Items: {noOfBooks}</h2>
       </header>
-      <p className="notification">A title of the book added to the cart</p>
+      {noOfBooks === 0 ? (
+        <p className="notification">
+          No books in your cart! <Link to="/search">Search for a book!</Link>
+        </p>
+      ) : null}
       <section className="items">
         <ul className="items-list">
           {books.map((b) =>
             b ? (
               <li key={b.id} className="item">
                 {b.title} (${(b.price / 100).toFixed(2)})
+                <Form method="post" action="/cart">
+                  <input type="hidden" value={b.id} name="id" />
+                  <button type="submit" name="task" value="delete">
+                    &times;
+                  </button>
+                </Form>
               </li>
             ) : null
           )}
@@ -71,6 +111,6 @@ export default function Cart() {
       <footer className="summary">
         <button type="submit">Checkout</button>
       </footer>
-    </Form>
+    </main>
   );
 }

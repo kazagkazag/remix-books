@@ -78,7 +78,7 @@ export default function Book() {
 
       <p className="description">{book?.description}</p>
 
-      <Form className="offer" method="post">
+      <Form className="offer" method="post" replace>
         <p className="price">
           {book?.price ? "$" + (book?.price / 100).toFixed(2) : "unknown"}
         </p>
