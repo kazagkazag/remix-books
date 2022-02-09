@@ -5,8 +5,8 @@
   grid-template-areas:
     "notification notification"
     "head head"
-    "items delivery"
-    "footer footer";
+    "items delivery";
+
   grid-template-columns: minmax(20%, 50%);
 
   line-height: 1;
@@ -63,4 +63,8 @@
   font-size: 2rem;
   padding: 1rem;
   width: 100%;
+}
+
+.notification.error {
+  background-color: coral;
 }

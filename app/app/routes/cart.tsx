@@ -4,7 +4,10 @@ import {
   Form,
   json,
   LoaderFunction,
+  redirect,
+  useActionData,
   useLoaderData,
+  useTransition,
 } from "remix";
 import { Book } from "~/modules/book/Book";
 import { getManyByIDs } from "~/modules/book/getMany";
@@ -37,6 +40,29 @@ export const action: ActionFunction = async ({ request }) => {
     );
   }
 
+  if (task === "checkout") {
+    const name = data.get("name");
+    const address = data.get("address");
+    const postal = data.get("postal");
+    const city = data.get("city");
+
+    console.log({
+      name,
+      address,
+      postal,
+      city,
+    });
+
+    if (name && address && postal && city) {
+      return redirect("/thank-you");
+    }
+
+    return json({
+      success: false,
+      error: "Please fill out the form!",
+    });
+  }
+
   return json({ success: true });
 };
 
@@ -58,6 +84,16 @@ export default function Cart() {
   ).toFixed(2);
   const noOfBooks = books.length;
 
+  const submission = useActionData<{ success: boolean; error?: string }>();
+  const transition = useTransition();
+
+  console.log({ submission, transition });
+
+  const submissionError = submission?.error;
+  const isCheckoutFormBeingSubmitted =
+    transition?.submission?.formData?.get?.("task") === "checkout" &&
+    transition?.state === "submitting";
+
   return (
     <main className="cart">
       <header className="header">
@@ -68,6 +104,9 @@ export default function Cart() {
         <p className="notification">
           No books in your cart! <Link to="/search">Search for a book!</Link>
         </p>
+      ) : null}
+      {submissionError ? (
+        <p className="notification error">{submissionError}</p>
       ) : null}
       <section className="items">
         <ul className="items-list">
@@ -89,8 +128,9 @@ export default function Cart() {
           <h3 className="total-price">Total: ${totalPrice}</h3>
         </footer>
       </section>
-      <section className="delivery">
+      <Form method="post" action="/cart" className="delivery">
         <h3>Delivery details</h3>
+
         <label htmlFor="name">
           Name:
           <input type="text" id="name" name="name" />
@@ -107,10 +147,12 @@ export default function Cart() {
           City:
           <input type="city" name="city" id="city" />
         </label>
-      </section>
-      <footer className="summary">
-        <button type="submit">Checkout</button>
-      </footer>
+        <footer className="summary">
+          <button type="submit" name="task" value="checkout">
+            {isCheckoutFormBeingSubmitted ? "Sending..." : "Checkout"}
+          </button>
+        </footer>
+      </Form>
     </main>
   );
 }
