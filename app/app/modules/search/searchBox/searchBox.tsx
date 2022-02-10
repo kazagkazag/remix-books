@@ -13,8 +13,8 @@ export function SearchBox() {
         type="text"
         placeholder="Type book title..."
       />
-      <span class="icon is-left">
-        <i class="fas fa-search" aria-hidden="true"></i>
+      <span className="icon is-left">
+        <i className="fas fa-search" aria-hidden="true"></i>
       </span>
     </p>
   );
