@@ -14,7 +14,17 @@ export const meta: MetaFunction = () => {
 };
 
 export function links() {
-  return [{ rel: "stylesheet", href: styles }];
+  return [
+    { rel: "stylesheet", href: styles },
+    {
+      rel: "stylesheet",
+      href: "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css",
+    },
+    {
+      rel: "stylesheet",
+      href: "/all.min.css",
+    },
+  ];
 }
 
 export default function App() {

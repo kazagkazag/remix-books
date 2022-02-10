@@ -6,11 +6,16 @@ export function links() {
 
 export function SearchBox() {
   return (
-    <input
-      name="query"
-      className="search-box"
-      type="text"
-      placeholder="Type book title..."
-    />
+    <p className="control has-icons-left">
+      <input
+        name="query"
+        className="input"
+        type="text"
+        placeholder="Type book title..."
+      />
+      <span class="icon is-left">
+        <i class="fas fa-search" aria-hidden="true"></i>
+      </span>
+    </p>
   );
 }

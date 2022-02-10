@@ -65,9 +65,9 @@ export default function Book() {
       </nav>
 
       <header className="head">
-        <h1 className="title">{book?.title}</h1>
-        <h2 className="authors">Author(s): {book?.authors}</h2>
-        <h3 className="rating">Our rating: {book?.rating} / 5</h3>
+        <h1 className="title is-1">{book?.title}</h1>
+        <h2 className="authors title is-size-5 mb-4">Author(s): {book?.authors}</h2>
+        <h3 className="rating title is-size-6 mb-4">Our rating: {book?.rating} / 5</h3>
       </header>
 
       <img
@@ -76,14 +76,14 @@ export default function Book() {
         className="image"
       />
 
-      <p className="description">{book?.description}</p>
+      <p className="description is-size-4">{book?.description}</p>
 
       <Form className="offer" method="post" replace>
-        <p className="price">
+        <p className="price is-size-2">
           {book?.price ? "$" + (book?.price / 100).toFixed(2) : "unknown"}
         </p>
         <input type="hidden" name="id" value={book?.id} />
-        <button type="submit">
+        <button type="submit" className="button is-primary">
           {addingToCartRequest.submission ? "Adding..." : "Add to cart"}
         </button>
         {addingToCart?.success ? (

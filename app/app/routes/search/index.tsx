@@ -49,16 +49,21 @@ export default function SearchResults() {
                 className="search-result-thumbnail"
               />
               <header>
-                <h2>{b.title}</h2>
-                <h3>{b.authors}</h3>
-                <p>
+                <h2 className="title is-5 mb-2">{b.title}</h2>
+                <h3 className="title is-6 mb-4">{b.authors}</h3>
+                <p className="is-size-7">
                   Rating: <span>{b.rating}</span> / 5
                 </p>
               </header>
             </a>
             <div>
-              <p>${b.price.toFixed(2)}</p>
-              <button type="submit" value={b.id} name="product">
+              <p className="is-size-2">${b.price.toFixed(2)}</p>
+              <button
+                type="submit"
+                value={b.id}
+                name="product"
+                className="button is-primary"
+              >
                 Add to cart
               </button>
             </div>

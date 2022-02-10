@@ -14,7 +14,7 @@ export default function Index() {
   return (
     <main className="index-wrapper">
       <header>
-        <h1 className="title">Best Books!</h1>
+        <h1 className="title is-1 mb-4">Best Books!</h1>
       </header>
       <section>
         <Form method="get" action="/search?index">

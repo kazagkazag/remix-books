@@ -97,26 +97,32 @@ export default function Cart() {
   return (
     <main className="cart">
       <header className="header">
-        <h1>Cart</h1>
-        <h2>Items: {noOfBooks}</h2>
+        <h1 className="title is-1">Cart</h1>
+        <h2 className="title is-2">Items: {noOfBooks}</h2>
       </header>
       {noOfBooks === 0 ? (
-        <p className="notification">
+        <p className="notification is-primary">
           No books in your cart! <Link to="/search">Search for a book!</Link>
         </p>
       ) : null}
-      {submissionError ? (
-        <p className="notification error">{submissionError}</p>
-      ) : null}
+
       <section className="items">
-        <ul className="items-list">
+        <ul className="panel">
           {books.map((b) =>
             b ? (
-              <li key={b.id} className="item">
-                {b.title} (${(b.price / 100).toFixed(2)})
+              <li key={b.id} className="panel-block has-icon-right">
+                {b.title}{" "}
+                <span className="tag is-info is-light ml-4">
+                  (${(b.price / 100).toFixed(2)})
+                </span>
                 <Form method="post" action="/cart">
                   <input type="hidden" value={b.id} name="id" />
-                  <button type="submit" name="task" value="delete">
+                  <button
+                    type="submit"
+                    name="task"
+                    value="delete"
+                    className="delete ml-4"
+                  >
                     &times;
                   </button>
                 </Form>
@@ -125,31 +131,42 @@ export default function Cart() {
           )}
         </ul>
         <footer>
-          <h3 className="total-price">Total: ${totalPrice}</h3>
+          <h3 className="title is-3">Total: ${totalPrice}</h3>
         </footer>
       </section>
       <Form method="post" action="/cart" className="delivery">
-        <h3>Delivery details</h3>
+        {submissionError ? (
+          <p className="notification is-danger">{submissionError}</p>
+        ) : null}
 
-        <label htmlFor="name">
+        <h3 className="title is-3">Delivery details</h3>
+
+        <label htmlFor="name" className="label">
           Name:
-          <input type="text" id="name" name="name" />
+          <input type="text" id="name" name="name" className="input" />
         </label>
-        <label htmlFor="address">
+        <label htmlFor="address" className="label">
           Address:
-          <input type="text" id="address" name="address" />
+          <input type="text" id="address" name="address" className="input" />
         </label>
-        <label htmlFor="postal">
+        <label htmlFor="postal" className="label">
           Postal:
-          <input type="postal" name="postal" id="postal" />
+          <input type="postal" name="postal" id="postal" className="input" />
         </label>
-        <label htmlFor="city">
+        <label htmlFor="city" className="label">
           City:
-          <input type="city" name="city" id="city" />
+          <input type="city" name="city" id="city" className="input" />
         </label>
         <footer className="summary">
-          <button type="submit" name="task" value="checkout">
-            {isCheckoutFormBeingSubmitted ? "Sending..." : "Checkout"}
+          <button
+            type="submit"
+            name="task"
+            value="checkout"
+            className={`button is-primary is-large ${
+              isCheckoutFormBeingSubmitted ? "is-loading" : ""
+            }`}
+          >
+            Checkout
           </button>
         </footer>
       </Form>

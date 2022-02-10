@@ -15,23 +15,12 @@
 
 .header {
   grid-area: head;
+  margin-bottom: 2rem;
 }
 
 .items {
   grid-area: items;
-}
-
-.items-list {
-  list-style: decimal;
-  display: flex;
-  flex-direction: column;
-  margin: 0;
-}
-
-.item {
-  font-size: 1.5rem;
-  padding: 0;
-  margin: 0 0 1rem 0;
+  padding-right: 2rem;
 }
 
 .delivery {
@@ -40,31 +29,9 @@
   flex-direction: column;
 }
 
-.delivery label {
-  display: flex;
-  flex-direction: column;
-  margin: 0 0 1rem 0;
-}
-
-.delivery input {
-  margin: 0.5rem 0 0 0;
-}
-
 .summary {
   grid-area: footer;
   display: flex;
   align-items: flex-end;
   justify-content: flex-end;
-}
-
-.notification {
-  grid-area: notification;
-  background-color: rgb(189, 255, 237);
-  font-size: 2rem;
-  padding: 1rem;
-  width: 100%;
-}
-
-.notification.error {
-  background-color: coral;
 }
