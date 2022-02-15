@@ -58,14 +58,6 @@ export default function SearchResults() {
             </a>
             <div>
               <p className="is-size-2">${b.price.toFixed(2)}</p>
-              <button
-                type="submit"
-                value={b.id}
-                name="product"
-                className="button is-primary"
-              >
-                Add to cart
-              </button>
             </div>
           </Form>
         </li>
