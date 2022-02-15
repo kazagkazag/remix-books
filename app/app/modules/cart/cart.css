@@ -1,13 +1,13 @@
 .cart {
   max-width: 1280px;
   margin: 0 auto;
+  padding: 0 1rem;
   display: grid;
   grid-template-areas:
-    "notification notification"
-    "head head"
-    "items delivery";
-
-  grid-template-columns: minmax(20%, 50%);
+    "notification"
+    "head"
+    "items"
+    "delivery";
 
   line-height: 1;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -27,6 +27,7 @@
   grid-area: delivery;
   display: flex;
   flex-direction: column;
+  margin-top: 2rem;
 }
 
 .summary {
@@ -34,4 +35,21 @@
   display: flex;
   align-items: flex-end;
   justify-content: flex-end;
+}
+
+@media (min-width: 760px) {
+  .cart {
+    margin: 0 auto;
+
+    grid-template-areas:
+      "notification notification"
+      "head head"
+      "items delivery";
+
+    grid-template-columns: minmax(20%, 50%);
+  }
+
+  .delivery {
+    margin-top: 0;
+  }
 }
