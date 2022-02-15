@@ -54,7 +54,11 @@ export const action: ActionFunction = async ({ request }) => {
     });
 
     if (name && address && postal && city) {
-      return redirect("/thank-you");
+      return redirect("/thank-you", {
+        headers: {
+          "Set-Cookie": await cartCookie.serialize([]),
+        },
+      });
     }
 
     return json({

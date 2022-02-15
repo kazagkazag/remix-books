@@ -37,6 +37,10 @@
   justify-content: flex-end;
 }
 
+.notification {
+  grid-area: notification;
+}
+
 @media (min-width: 760px) {
   .cart {
     margin: 0 auto;
