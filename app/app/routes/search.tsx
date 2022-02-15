@@ -13,7 +13,7 @@ export function links() {
 export default function Index() {
   return (
     <main className="index-wrapper">
-      <header>
+      <header className="pt-4 pb-4">
         <h1 className="title is-1 mb-4">Best Books!</h1>
       </header>
       <section>
