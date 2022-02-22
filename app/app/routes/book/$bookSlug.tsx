@@ -27,12 +27,13 @@ export const loader = ({
 export const action: ActionFunction = async ({ request }) => {
   const body = await request.formData();
   const bookId = body.get("id");
+
   console.log("Adding", bookId, "to the cart");
 
   const currentCart = await cartCookie.parse(request.headers.get("Cookie"));
   const cartWithNewBook = [...(currentCart || []), bookId];
 
-  console.log("Current cart", currentCart);
+  console.log("Cart before update", currentCart);
   console.log("After update", cartWithNewBook);
 
   return json(
@@ -66,8 +67,12 @@ export default function Book() {
 
       <header className="head">
         <h1 className="title is-1">{book?.title}</h1>
-        <h2 className="authors title is-size-5 mb-4">Author(s): {book?.authors}</h2>
-        <h3 className="rating title is-size-6 mb-4">Our rating: {book?.rating} / 5</h3>
+        <h2 className="authors title is-size-5 mb-4">
+          Author(s): {book?.authors}
+        </h2>
+        <h3 className="rating title is-size-6 mb-4">
+          Our rating: {book?.rating} / 5
+        </h3>
       </header>
 
       <img
@@ -82,10 +87,12 @@ export default function Book() {
         <p className="price is-size-2">
           {book?.price ? "$" + (book?.price / 100).toFixed(2) : "unknown"}
         </p>
+
         <input type="hidden" name="id" value={book?.id} />
         <button type="submit" className="button is-primary">
           {addingToCartRequest.submission ? "Adding..." : "Add to cart"}
         </button>
+
         {addingToCart?.success ? (
           <p className="notification">
             Added! Go to <Link to="/cart">the cart</Link>.

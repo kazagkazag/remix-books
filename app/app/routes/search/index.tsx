@@ -31,35 +31,35 @@ export const loader: LoaderFunction = ({ request }): BookSearchResult[] => {
 export default function SearchResults() {
   const books = useLoaderData<BookSearchResult[]>();
 
-  console.log({ books: typeof books });
-
   if (!books) {
-    return <p>ERROR</p>;
+    return <p>No books?!</p>;
   }
 
   return (
     <ul className="search-results">
       {books.map((b: BookSearchResult) => (
+        // Or <Link /> if you want a better performance, prefetching etc
         <li key={b.title + b.authors}>
-          <Form method="post">
-            <a href={"/book/" + b.slug} title={"Details about " + b.title}>
-              <img
-                src={b.imageUrl}
-                alt={b.title}
-                className="search-result-thumbnail"
-              />
-              <header>
-                <h2 className="title is-5 mb-2">{b.title}</h2>
-                <h3 className="title is-6 mb-4">{b.authors}</h3>
-                <p className="is-size-7">
-                  Rating: <span>{b.rating}</span> / 5
-                </p>
-              </header>
-            </a>
-            <div>
-              <p className="is-size-2">${b.price.toFixed(2)}</p>
-            </div>
-          </Form>
+          <a href={"/book/" + b.slug} title={"Details about " + b.title}>
+            
+            <img
+              src={b.imageUrl}
+              alt={b.title}
+              className="search-result-thumbnail"
+            />
+            
+            <header>
+              <h2 className="title is-5 mb-2">{b.title}</h2>
+              <h3 className="title is-6 mb-4">{b.authors}</h3>
+              <p className="is-size-7">
+                Rating: <span>{b.rating}</span> / 5
+              </p>
+            </header>
+          </a>
+          
+          <div>
+            <p className="is-size-2">${b.price.toFixed(2)}</p>
+          </div>
         </li>
       ))}
     </ul>

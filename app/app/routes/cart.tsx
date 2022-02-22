@@ -91,8 +91,6 @@ export default function Cart() {
   const submission = useActionData<{ success: boolean; error?: string }>();
   const transition = useTransition();
 
-  console.log({ submission, transition });
-
   const submissionError = submission?.error;
   const isCheckoutFormBeingSubmitted =
     transition?.submission?.formData?.get?.("task") === "checkout" &&
@@ -104,6 +102,7 @@ export default function Cart() {
         <h1 className="title is-1">Cart</h1>
         <h2 className="title is-2">Items: {noOfBooks}</h2>
       </header>
+
       {noOfBooks === 0 ? (
         <p className="notification is-primary">
           No books in your cart! <Link to="/search">Search for a book!</Link>
@@ -138,6 +137,7 @@ export default function Cart() {
           <h3 className="title is-3">Total: ${totalPrice}</h3>
         </footer>
       </section>
+
       <Form method="post" action="/cart" className="delivery">
         {submissionError ? (
           <p className="notification is-danger">{submissionError}</p>
@@ -161,6 +161,7 @@ export default function Cart() {
           City:
           <input type="city" name="city" id="city" className="input" />
         </label>
+
         <footer className="summary">
           <button
             type="submit"
